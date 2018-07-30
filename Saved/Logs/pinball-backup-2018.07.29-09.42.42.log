@@ -1,0 +1,837 @@
+﻿Log file open, 07/28/18 16:35:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: pinball
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-103710841) SRandInit(-103710841).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.262630
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.980s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am eu-PC (192.168.1.144:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.003s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.28-20.35.49:433][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-20.35.49:433][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.28-20.35.49:442][  0]LogInit: Computer: EU-PC
+[2018.07.28-20.35.49:442][  0]LogInit: User: eu
+[2018.07.28-20.35.49:442][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.28-20.35.49:442][  0]LogInit: High frequency timer resolution =3.903995 MHz
+[2018.07.28-20.35.49:442][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.07.28-20.35.49:442][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.28-20.35.49:442][  0]LogMemory: Process Physical Memory: 275.42 MB used, 275.42 MB peak
+[2018.07.28-20.35.49:442][  0]LogMemory: Process Virtual Memory: 276.83 MB used, 276.83 MB peak
+[2018.07.28-20.35.49:442][  0]LogMemory: Physical Memory: 6600.60 MB used,  9726.30 MB free, 16326.91 MB total
+[2018.07.28-20.35.49:442][  0]LogMemory: Virtual Memory: 4791.97 MB used,  9726.30 MB free, 134217728.00 MB total
+[2018.07.28-20.35.49:458][  0]LogInit: Using OS detected language (en-US).
+[2018.07.28-20.35.49:458][  0]LogInit: Using OS detected locale (en-US).
+[2018.07.28-20.35.49:461][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.07.28-20.35.49:818][  0]LogStreaming: Display: Took  0.359s to EndInitTextLocalization.
+[2018.07.28-20.35.49:818][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.28-20.35.49:856][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.28-20.35.49:856][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.28-20.35.50:025][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.28-20.35.50:061][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2018.07.28-20.35.50:061][  0]LogD3D11RHI:       4043/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.07.28-20.35.50:063][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.28-20.35.50:063][  0]LogD3D11RHI:       0/0/8163 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.28-20.35.50:063][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.28-20.35.50:068][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.28-20.35.50:068][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.28-20.35.50:068][  0]LogWindows: EnumDisplayDevices:
+[2018.07.28-20.35.50:069][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.28-20.35.50:069][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2018.07.28-20.35.50:069][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2018.07.28-20.35.50:069][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2018.07.28-20.35.50:069][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.28-20.35.50:069][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2018.07.28-20.35.50:069][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.28-20.35.50:069][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.28-20.35.50:069][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2018.07.28-20.35.50:095][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-20.35.50:096][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.07.28-20.35.50:096][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.28-20.35.50:111][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.28-20.35.50:114][  0]LogShaderCompilers: Guid format shader working directory is -37 characters bigger than the processId version (../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Intermediate/Shaders/WorkingDirectory/18272/).
+[2018.07.28-20.35.50:114][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/eu/AppData/Local/Temp/UnrealShaderWorkingDir/8512E73E41709B96F1D324A1E0AF0831/'.
+[2018.07.28-20.35.50:278][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.28-20.35.50:289][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.28-20.35.50:300][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.28-20.35.50:311][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.28-20.35.50:322][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.28-20.35.50:333][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.28-20.35.50:344][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.28-20.35.50:354][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.28-20.35.50:360][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.28-20.35.50:369][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.28-20.35.50:379][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.28-20.35.50:388][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.28-20.35.50:398][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.28-20.35.50:407][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.28-20.35.50:417][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.28-20.35.50:436][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.28-20.35.50:436][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.28-20.35.50:446][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.28-20.35.50:447][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.28-20.35.50:482][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.28-20.35.50:491][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.28-20.35.50:500][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.28-20.35.50:510][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.28-20.35.50:519][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.28-20.35.50:529][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.28-20.35.50:529][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.28-20.35.50:629][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.28-20.35.50:629][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.28-20.35.50:629][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.28-20.35.51:174][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.28-20.35.51:229][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/eu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-20.35.51:229][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/eu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.28-20.35.51:229][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.28-20.35.51:229][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.28-20.35.51:230][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.28-20.35.51:230][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.28-20.35.51:242][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.28-20.35.51:255][  0]LogDerivedDataCache: Using Local data cache path C:/Users/eu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.28-20.35.51:255][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.28-20.35.51:255][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.28-20.35.51:263][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.28-20.35.51:264][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.28-20.35.51:264][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-20.35.51:264][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.28-20.35.51:378][  0]LogAssetRegistry: FAssetRegistry took 0.0249 seconds to start up
+[2018.07.28-20.35.51:611][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.28-20.35.51:726][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.28-20.35.51:728][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.28-20.35.51:728][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.28-20.35.51:728][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.28-20.35.51:728][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.28-20.35.51:728][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.28-20.35.51:761][  0]LogNetVersion: pinball , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3476590221)
+[2018.07.28-20.35.52:130][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.093731 seconds
+[2018.07.28-20.35.52:135][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.28-20.35.52:135][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.28-20.35.52:135][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.28-20.35.53:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.28-20.35.53:490][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.28-20.35.53:818][  0]SourceControl: Source control is disabled
+[2018.07.28-20.35.53:818][  0]SourceControl: Source control is disabled
+[2018.07.28-20.35.53:835][  0]SourceControl: Source control is disabled
+[2018.07.28-20.35.53:852][  0]SourceControl: Source control is disabled
+[2018.07.28-20.35.54:304][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.28-20.35.54:437][  0]LogOcInput: OculusInput pre-init called
+[2018.07.28-20.35.54:535][  0]LogEngine: Initializing Engine...
+[2018.07.28-20.35.54:537][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.28-20.35.54:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-20.35.54:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-20.35.54:704][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.28-20.35.54:717][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-20.35.54:768][  0]LogInit: FAudioDevice initialized.
+[2018.07.28-20.35.54:836][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/eu/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.28-20.35.54:846][  0]LogInit: Texture streaming: Enabled
+[2018.07.28-20.35.54:864][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.28-20.35.54:876][  0]LogInit: Transaction tracking system initialized
+[2018.07.28-20.35.54:896][  0]BlueprintLog: New page: Editor Load
+[2018.07.28-20.35.54:966][  0]LocalizationService: Localization service is disabled
+[2018.07.28-20.35.55:037][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.07.28-20.35.55:038][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2018.07.28-20.35.55:038][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.07.28-20.35.55:247][  0]LogConsoleResponse: Display: 
+[2018.07.28-20.35.55:362][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.28-20.35.55:362][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.28-20.35.55:362][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.28-20.35.55:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.28-20.35.55:362][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.28-20.35.55:460][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/' took 0.01s
+[2018.07.28-20.35.55:698][  0]SourceControl: Source control is disabled
+[2018.07.28-20.35.55:698][  0]Cmd: MAP LOAD FILE="../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.28-20.35.55:699][  0]LightingResults: New page: Lighting Build
+[2018.07.28-20.35.55:701][  0]MapCheck: New page: Map Check
+[2018.07.28-20.35.55:701][  0]LightingResults: New page: Lighting Build
+[2018.07.28-20.35.55:779][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18413400, Size=368, Default__Ball_C Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.07.28-20.35.55:781][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18413400, Size=368
+[2018.07.28-20.35.55:781][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18cd4880, Size=368, Default__Ball_C Function /Engine/Transient.REINST_Ball_C_5:ExecuteUbergraph_Ball
+[2018.07.28-20.35.55:783][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18442800, Size=368, Default__Ball_C Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.07.28-20.35.55:785][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b4c98c0, Size=32, Default__BallResetZone_C Function /Game/Blueprints/BallResetZone.BallResetZone_C:ExecuteUbergraph_BallResetZone
+[2018.07.28-20.35.55:786][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1b4c98c0, Size=32
+[2018.07.28-20.35.55:786][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b4c98c0, Size=32, Default__BallResetZone_C Function /Engine/Transient.REINST_BallResetZone_C_7:ExecuteUbergraph_BallResetZone
+[2018.07.28-20.35.55:786][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b4c9c00, Size=32, Default__BallResetZone_C Function /Game/Blueprints/BallResetZone.BallResetZone_C:ExecuteUbergraph_BallResetZone
+[2018.07.28-20.35.55:807][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de183f1d80, Size=164, Default__BP_PLUNGER_C Function /Game/Blueprints/BP_PLUNGER.BP_PLUNGER_C:ExecuteUbergraph_BP_PLUNGER
+[2018.07.28-20.35.55:809][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de183f1d80, Size=164
+[2018.07.28-20.35.55:810][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de183f1d80, Size=164, Default__BP_PLUNGER_C Function /Engine/Transient.REINST_BP_PLUNGER_C_11:ExecuteUbergraph_BP_PLUNGER
+[2018.07.28-20.35.55:811][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de183f2980, Size=164, Default__BP_PLUNGER_C Function /Game/Blueprints/BP_PLUNGER.BP_PLUNGER_C:ExecuteUbergraph_BP_PLUNGER
+[2018.07.28-20.35.55:820][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b561d68, Size=8, Default__flipper_C Function /Game/Blueprints/flipper.flipper_C:ExecuteUbergraph_flipper
+[2018.07.28-20.35.55:822][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1b561d68, Size=8
+[2018.07.28-20.35.55:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b561d68, Size=8, Default__flipper_C Function /Engine/Transient.REINST_flipper_C_13:ExecuteUbergraph_flipper
+[2018.07.28-20.35.55:824][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1b561080, Size=8, Default__flipper_C Function /Game/Blueprints/flipper.flipper_C:ExecuteUbergraph_flipper
+[2018.07.28-20.35.55:828][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18cc3b00, Size=272, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.35.55:829][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de03a49c00, Size=496, Default__PinballPlayerController_C Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.28-20.35.55:837][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18cf4e80, Size=96, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.35.55:848][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18cf4e80, Size=96
+[2018.07.28-20.35.55:848][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18c2f8e0, Size=96, Default__HighScoreEntry_C Function /Engine/Transient.REINST_HighScoreEntry_C_0:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.35.55:848][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18cc3b00, Size=272
+[2018.07.28-20.35.55:848][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18cc3b00, Size=272, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_15:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.35.55:849][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de03a49c00, Size=496
+[2018.07.28-20.35.55:849][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18c7f000, Size=496, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_16:ExecuteUbergraph_PinballPlayerController
+[2018.07.28-20.35.55:861][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18c2cac0, Size=96, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.35.55:863][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18b88540, Size=272, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.35.55:865][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18b61800, Size=496, Default__PinballPlayerController_C Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.07.28-20.35.55:883][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18aab880, Size=288, Default__bp_bumper_C Function /Game/Blueprints/bp_bumper.bp_bumper_C:ExecuteUbergraph_bp_bumper
+[2018.07.28-20.35.55:887][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18aab880, Size=288
+[2018.07.28-20.35.55:887][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18aab880, Size=288, Default__bp_bumper_C Function /Engine/Transient.REINST_bp_bumper_C_21:ExecuteUbergraph_bp_bumper
+[2018.07.28-20.35.55:890][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de18aab600, Size=288, Default__bp_bumper_C Function /Game/Blueprints/bp_bumper.bp_bumper_C:ExecuteUbergraph_bp_bumper
+[2018.07.28-20.35.56:037][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-20.35.56:046][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18cd4880, Size=368
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1b4c98c0, Size=32
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de183f1d80, Size=164
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1b561d68, Size=8
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18cc3b00, Size=272
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18c7f000, Size=496
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18c2f8e0, Size=96
+[2018.07.28-20.35.56:056][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18aab880, Size=288
+[2018.07.28-20.35.56:057][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.28-20.35.56:121][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.25ms to complete.
+[2018.07.28-20.35.56:121][  0]LogFileHelpers: Loading map 'NewMap' took 0.423
+[2018.07.28-20.35.56:228][  0]LogCollectionManager: Loaded 0 collections in 0.001689 seconds
+[2018.07.28-20.35.56:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Collections/' took 0.01s
+[2018.07.28-20.35.56:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Developers/eu/Collections/' took 0.01s
+[2018.07.28-20.35.56:279][  0]LogFileCache: Scanning file cache for directory 'C:/Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Collections/' took 0.01s
+[2018.07.28-20.35.56:279][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.07.28-20.35.56:287][  0]LogContentBrowser: Native class hierarchy populated in 0.0074 seconds. Added 2452 classes and 558 folders.
+[2018.07.28-20.35.56:294][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-20.35.56:337][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-20.35.56:341][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.07.28-20.35.56:468][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.28-20.35.56:471][  0]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.28-20.35.56:472][  0]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.28-20.35.56:554][  0]LogRenderer: Reallocating scene render targets to support 1916x1016 Format 10 NumSamples 1 (Frame:1).
+[2018.07.28-20.35.56:639][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.07.28-20.35.56:640][  0]LogLoad: (Engine Initialization) Total time: 9.48 seconds
+[2018.07.28-20.35.56:640][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.28-20.35.56:662][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.28-20.35.56:678][  0]LogAssetRegistry: Asset discovery search completed in 5.3218 seconds
+[2018.07.28-20.35.56:680][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.28-20.35.56:680][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2018.07.28-20.35.56:682][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.28-20.35.56:711][  0]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-20.36.02:790][484]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.36.09:644][204]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-20.36.09:656][204]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-20.36.09:656][204]PIE: New page: PIE session: NewMap (Jul 28, 2018, 12:36:09 PM)
+[2018.07.28-20.36.09:656][204]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.07.28-20.36.09:661][204]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005035s)
+[2018.07.28-20.36.09:661][204]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-20.36.09:662][204]LogPlayLevel: PIE: World Init took: (0.000498s)
+[2018.07.28-20.36.09:662][204]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005645s)
+[2018.07.28-20.36.09:672][204]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-20.36.09:702][204]LogInit: FAudioDevice initialized.
+[2018.07.28-20.36.09:702][204]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.36.09:749][204]LogLinker: Warning: Can't find file '/Game/Blueprints/GameModeBlueprint'
+[2018.07.28-20.36.09:749][204]LogLinker: Warning: Can't find file '/Game/Blueprints/GameModeBlueprint'
+[2018.07.28-20.36.09:749][204]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/Blueprints/GameModeBlueprint.GameModeBlueprint_C'
+[2018.07.28-20.36.09:749][204]LogLoad: Game class is 'GameModeBase'
+[2018.07.28-20.36.09:751][204]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.07.28-16.36.09
+[2018.07.28-20.36.09:751][204]LogWorld: Bringing up level for play took: 0.001234
+[2018.07.28-20.36.09:754][204]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0002 seconds. Added 11 classes and 0 folders.
+[2018.07.28-20.36.09:755][204]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.888
+[2018.07.28-20.36.20:500][242]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.36.22:906][491]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.36.23:608][491]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.28-20.36.23:715][492]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.pinball
+[2018.07.28-20.36.23:715][492]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.28-20.36.23:715][492]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.19
+[2018.07.28-20.36.23:715][492]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.07.28-20.36.23:715][492]LogTemp: BranchPath = EU-PC/C/Program Files/Epic Games/UE_4.19/Engine/Binaries --- GameBranchPath = EU-PC/C/Program Files/Epic Games/UE_4.19/Engine/Binaries
+[2018.07.28-20.36.23:715][492]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\eu\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.28-20.36.41:492][396]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.28-20.36.41:530][396]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.36.46:687][954]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.28-20.36.46:690][954]LogSlate: Window 'Project Settings' being destroyed
+[2018.07.28-20.36.49:662][305]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-20.36.49:674][305]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-20.36.49:674][305]PIE: New page: PIE session: NewMap (Jul 28, 2018, 12:36:49 PM)
+[2018.07.28-20.36.49:675][305]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.07.28-20.36.49:679][305]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004676s)
+[2018.07.28-20.36.49:680][305]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-20.36.49:680][305]LogPlayLevel: PIE: World Init took: (0.000545s)
+[2018.07.28-20.36.49:680][305]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005326s)
+[2018.07.28-20.36.49:691][305]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-20.36.49:720][305]LogInit: FAudioDevice initialized.
+[2018.07.28-20.36.49:720][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.36.49:750][305]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.28-20.36.49:751][305]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.07.28-16.36.49
+[2018.07.28-20.36.49:752][305]LogWorld: Bringing up level for play took: 0.001177
+[2018.07.28-20.36.49:753][305]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.888
+[2018.07.28-20.36.55:844][ 33]LogBlueprintUserMessages: [PinballGameMode_C_0] 2
+[2018.07.28-20.37.02:063][779]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.07.28-20.37.08:097][503]LogBlueprintUserMessages: [PinballGameMode_C_0] 0
+[2018.07.28-20.37.16:184][473]LogStreaming: Warning: Failed to read file '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/SaveGames/HighScore.sav' error.
+[2018.07.28-20.37.16:184][473]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:040C
+[2018.07.28-20.37.16:184][473]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-20.37.16:184][473]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:03ED
+[2018.07.28-20.37.16:184][473]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-20.37.16:188][473]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:188][473]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:194][474]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:194][474]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:202][475]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:202][475]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:210][476]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:210][476]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:218][477]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:218][477]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:227][478]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:227][478]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:235][479]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:235][479]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:243][480]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.16:243][480]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.37.16:252][481]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.HighScoreEntry_C_0
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.37.29:428][ 36]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.37.41:871][358]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.07.28-20.37.42:087][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de3570ec98, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.28-20.37.42:088][358]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de3570ec90, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.28-20.37.42:416][358]LogSlate: Took 0.000341 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.28-20.37.42:526][359]LogSlate: Took 0.000300 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.28-20.44.47:474][188]BlueprintLog: New page: Compile PinballGameMode
+[2018.07.28-20.44.47:514][188]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18b88540, Size=272
+[2018.07.28-20.44.47:514][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de951bf4c0, Size=272, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_41:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.44.47:518][188]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de9528cd00, Size=240, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.46.35:266][402]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de951bf4c0, Size=272
+[2018.07.28-20.46.35:267][402]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.016
+[2018.07.28-20.46.35:270][402]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinballGameMode] ([1] browsable assets)...
+[2018.07.28-20.46.35:271][402]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinballGameMode]
+[2018.07.28-20.46.35:320][402]LogSavePackage: Save=30.69ms
+[2018.07.28-20.46.35:320][402]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/PinballGameMode_Auto117F2238E4256FFA9B43FF682CCB2CF65.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto1.uasset'
+[2018.07.28-20.46.35:323][402]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto1.uasset
+[2018.07.28-20.46.35:323][402]LogFileHelpers: Auto-saving content packages took 0.055
+[2018.07.28-20.47.21:622][807]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.47.21:720][816]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-20.47.21:735][816]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-20.47.21:736][816]PIE: New page: PIE session: NewMap (Jul 28, 2018, 12:47:21 PM)
+[2018.07.28-20.47.21:736][816]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.07.28-20.47.21:741][816]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004778s)
+[2018.07.28-20.47.21:741][816]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-20.47.21:741][816]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.07.28-20.47.21:741][816]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005501s)
+[2018.07.28-20.47.21:758][816]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-20.47.21:788][816]LogInit: FAudioDevice initialized.
+[2018.07.28-20.47.21:822][816]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.28-20.47.21:824][816]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.07.28-16.47.21
+[2018.07.28-20.47.21:824][816]LogWorld: Bringing up level for play took: 0.001580
+[2018.07.28-20.47.21:826][816]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.816
+[2018.07.28-20.47.36:231][329]LogBlueprintUserMessages: [PinballGameMode_C_0] 2
+[2018.07.28-20.47.47:892][542]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.07.28-20.47.56:545][418]LogBlueprintUserMessages: [PinballGameMode_C_0] 0
+[2018.07.28-20.48.07:828][553]LogStreaming: Warning: Failed to read file '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/SaveGames/HighScore.sav' error.
+[2018.07.28-20.48.07:828][553]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:040C
+[2018.07.28-20.48.07:828][553]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-20.48.07:829][553]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:03ED
+[2018.07.28-20.48.07:829][553]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-20.48.07:829][553]LogBlueprintUserMessages: [PinballGameMode_C_0] true
+[2018.07.28-20.48.23:147][ 68]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.48.53:741][888]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.28-20.49.03:800][801]LogSlate: Window 'Message Log' being destroyed
+[2018.07.28-20.49.03:813][801]LogSlate: Window 'Message Log' being destroyed
+[2018.07.28-20.49.06:227][ 65]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.49.06:324][ 74]BlueprintLog: New page: Compile PinballGameMode
+[2018.07.28-20.49.06:358][ 74]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de9528cd00, Size=240
+[2018.07.28-20.49.06:358][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de64249100, Size=240, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_49:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.49.06:363][ 74]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de66d40900, Size=288, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.52.35:187][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreEntry" FILE="../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset" SILENT=true
+[2018.07.28-20.52.35:223][780]LogSavePackage: Save=16.63ms
+[2018.07.28-20.52.35:223][780]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/HighScoreEntry0055B4E34B8195F0AAB0699961834EC3.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset'
+[2018.07.28-20.52.35:229][780]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset
+[2018.07.28-20.52.36:347][889]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.53.18:704][993]LogEditorTransaction: Undo Move Node
+[2018.07.28-20.53.18:706][993]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de99449338, Size=4, Default__SKEL_HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.SKEL_HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.19:110][ 30]LogEditorTransaction: Undo Add Node
+[2018.07.28-20.53.19:110][ 30]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de99449338, Size=4
+[2018.07.28-20.53.19:111][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de99449338, Size=4, Default__SKEL_HighScoreEntry_C Function /Engine/Transient.REINST_SKEL_HighScoreEntry_C_7:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.19:112][ 30]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de9944ab28, Size=4, Default__SKEL_HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.SKEL_HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.35:089][597]BlueprintLog: New page: Compile HighScoreEntry
+[2018.07.28-20.53.35:094][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de9944ab28, Size=4
+[2018.07.28-20.53.35:094][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de9944ab28, Size=4, Default__SKEL_HighScoreEntry_C Function /Engine/Transient.REINST_SKEL_HighScoreEntry_C_8:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.35:105][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de18c2cac0, Size=96
+[2018.07.28-20.53.35:105][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1d4f91e0, Size=96, Default__HighScoreEntry_C Function /Engine/Transient.REINST_HighScoreEntry_C_9:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.35:109][597]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de3b34b900, Size=104, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.53.35:126][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de9944ab28, Size=4
+[2018.07.28-20.53.35:127][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de99449338, Size=4
+[2018.07.28-20.53.35:127][597]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de64249100, Size=240
+[2018.07.28-20.54.21:737][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreEntry" FILE="../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset" SILENT=true
+[2018.07.28-20.54.21:772][ 74]LogSavePackage: Save=17.05ms
+[2018.07.28-20.54.21:772][ 74]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/HighScoreEntryDFD575704D7F53D9BF5B10AF354737D1.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset'
+[2018.07.28-20.54.21:777][ 74]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Content/Blueprints/HighScoreEntry.uasset
+[2018.07.28-20.54.22:894][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.54.24:650][348]BlueprintLog: New page: Compile PinballGameMode
+[2018.07.28-20.54.24:687][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de66d40900, Size=288
+[2018.07.28-20.54.24:687][348]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de3b602200, Size=288, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_63:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.54.24:693][348]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de650be340, Size=288, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.54.24:821][348]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de1d4f91e0, Size=96
+[2018.07.28-20.54.45:687][406]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.54.59:529][609]BlueprintLog: New page: Compile PinballGameMode
+[2018.07.28-20.54.59:564][609]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de650be340, Size=288
+[2018.07.28-20.54.59:564][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de910a0b80, Size=288, PinballGameMode_C_21 Function /Engine/Transient.REINST_PinballGameMode_C_71:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.54.59:569][609]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de910a3100, Size=288, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.07.28-20.54.59:697][609]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de3b602200, Size=288
+[2018.07.28-20.55.11:238][673]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-20.55.11:263][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-20.55.11:263][673]PIE: New page: PIE session: NewMap (Jul 28, 2018, 12:55:11 PM)
+[2018.07.28-20.55.11:263][673]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.07.28-20.55.11:268][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005222s)
+[2018.07.28-20.55.11:268][673]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-20.55.11:269][673]LogPlayLevel: PIE: World Init took: (0.000590s)
+[2018.07.28-20.55.11:269][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005918s)
+[2018.07.28-20.55.11:288][673]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-20.55.11:320][673]LogInit: FAudioDevice initialized.
+[2018.07.28-20.55.11:320][673]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-20.55.11:360][673]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.28-20.55.11:361][673]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.07.28-16.55.11
+[2018.07.28-20.55.11:362][673]LogWorld: Bringing up level for play took: 0.001266
+[2018.07.28-20.55.11:363][673]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.721
+[2018.07.28-20.55.22:390][655]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.07.28-20.55.37:383][993]LogBlueprintUserMessages: [PinballGameMode_C_0] 0
+[2018.07.28-20.55.50:417][156]LogStreaming: Warning: Failed to read file '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/SaveGames/HighScore.sav' error.
+[2018.07.28-20.55.50:417][156]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:040C
+[2018.07.28-20.55.50:417][156]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-20.55.50:417][156]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:03ED
+[2018.07.28-20.55.50:417][156]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-20.55.50:418][156]LogBlueprintUserMessages: [PinballGameMode_C_0] true
+[2018.07.28-20.55.50:418][156]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:0517
+[2018.07.28-20.55.50:418][156]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-20.55.50:418][156]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:04F8
+[2018.07.28-20.55.50:418][156]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-20.55.50:424][156]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:424][156]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:435][157]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:435][157]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:446][158]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:446][158]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:458][159]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:459][159]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:470][160]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:470][160]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:481][161]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:481][161]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:491][162]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:491][162]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:502][163]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.50:502][163]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-20.55.50:513][164]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_3.HighScoreEntry_C_16
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-20.55.58:037][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.56.00:197][ 36]LogBlueprintUserMessages: [HighScoreEntry_C_16] text commites
+[2018.07.28-20.56.06:546][605]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.56.06:840][631]LogBlueprintUserMessages: [HighScoreEntry_C_16] text commites
+[2018.07.28-20.56.11:896][989]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-20.57.02:591][436]BlueprintLog: New page: Compile HighScoreEntry
+[2018.07.28-20.57.02:608][436]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de3b34b900, Size=104
+[2018.07.28-20.57.02:608][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de38698e90, Size=104, Default__HighScoreEntry_C Function /Engine/Transient.REINST_HighScoreEntry_C_15:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.57.02:612][436]LogUObjectGlobals: Created PersistentFrame Addr=0x000001de1d32d2f0, Size=112, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.07.28-20.58.56:017][ 82]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001de38698e90, Size=104
+[2018.07.28-20.58.56:018][ 82]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.017
+[2018.07.28-20.58.56:020][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinballGameMode] ([1] browsable assets)...
+[2018.07.28-20.58.56:020][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinballGameMode]
+[2018.07.28-20.58.56:073][ 82]LogSavePackage: Save=32.76ms
+[2018.07.28-20.58.56:073][ 82]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/PinballGameMode_Auto2CE57D8D441427B3090D22B9B18BEE931.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto2.uasset'
+[2018.07.28-20.58.56:076][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto2.uasset
+[2018.07.28-20.58.56:078][ 82]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreEntry] ([1] browsable assets)...
+[2018.07.28-20.58.56:078][ 82]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreEntry]
+[2018.07.28-20.58.56:113][ 82]LogSavePackage: Save=20.19ms
+[2018.07.28-20.58.56:113][ 82]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/HighScoreEntry_Auto2CCBA710A4DA197679CC34DABA2182F7D.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset'
+[2018.07.28-20.58.56:115][ 82]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset
+[2018.07.28-20.58.56:115][ 82]LogFileHelpers: Auto-saving content packages took 0.097
+[2018.07.28-21.02.17:514][463]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-21.02.41:504][149]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-21.02.41:690][159]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.07.28-21.02.41:708][160]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.07.28-21.02.44:617][490]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.28-21.02.44:634][490]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.28-21.02.44:634][490]PIE: New page: PIE session: NewMap (Jul 28, 2018, 1:02:44 PM)
+[2018.07.28-21.02.44:634][490]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.07.28-21.02.44:639][490]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004790s)
+[2018.07.28-21.02.44:640][490]LogAIModule: Creating AISystem for world NewMap
+[2018.07.28-21.02.44:640][490]LogPlayLevel: PIE: World Init took: (0.000554s)
+[2018.07.28-21.02.44:640][490]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005451s)
+[2018.07.28-21.02.44:659][490]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.07.28-21.02.44:689][490]LogInit: FAudioDevice initialized.
+[2018.07.28-21.02.44:689][490]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.28-21.02.44:730][490]LogLoad: Game class is 'PinballGameMode_C'
+[2018.07.28-21.02.44:732][490]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2018.07.28-17.02.44
+[2018.07.28-21.02.44:732][490]LogWorld: Bringing up level for play took: 0.001214
+[2018.07.28-21.02.44:734][490]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.091
+[2018.07.28-21.02.55:408][714]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.07.28-21.03.17:083][212]LogBlueprintUserMessages: [PinballGameMode_C_0] 0
+[2018.07.28-21.03.25:492][184]LogStreaming: Warning: Failed to read file '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/SaveGames/HighScore.sav' error.
+[2018.07.28-21.03.25:492][184]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:040C
+[2018.07.28-21.03.25:492][184]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-21.03.25:492][184]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:03ED
+[2018.07.28-21.03.25:492][184]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Print String in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-21.03.25:492][184]LogBlueprintUserMessages: [PinballGameMode_C_0] true
+[2018.07.28-21.03.25:492][184]LogScript: Warning: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:0517
+[2018.07.28-21.03.25:492][184]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None trying to read property CallFunc_GetGameSaveData_CurrentSaveObject
+[2018.07.28-21.03.25:492][184]LogScript: Warning: Accessed None
+	PinballGameMode_C /Game/Maps/UEDPIE_0_NewMap.NewMap:PersistentLevel.PinballGameMode_C_0
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode:04F8
+[2018.07.28-21.03.25:492][184]PIE: Error: Blueprint Runtime Error: Accessed None from function: 'ExecuteUbergraph_PinballGameMode' from node: Branch in graph: EventGraph in object: PinballGameMode with description: Accessed None
+[2018.07.28-21.03.25:498][184]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:498][184]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:506][185]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:506][185]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:515][186]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:515][186]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:523][187]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:523][187]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:532][188]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:532][188]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:541][189]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:541][189]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:549][190]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:549][190]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:558][191]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.25:558][191]LogScript: Warning: Accessed None
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:00D6
+[2018.07.28-21.03.25:567][192]LogScript: Warning: Accessed None trying to read property CurrentSaveObject
+	HighScoreEntry_C /Engine/Transient.UnrealEdEngine_0:GameInstance_4.HighScoreEntry_C_24
+	Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:Get_HighScoreslist_Text_0:010B
+[2018.07.28-21.03.31:769][915]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-21.03.34:834][272]LogBlueprintUserMessages: [HighScoreEntry_C_24] sdsafs
+[2018.07.28-21.03.54:551][394]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.28-21.10.04:017][918]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.019
+[2018.07.28-21.10.04:020][918]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinballGameMode] ([1] browsable assets)...
+[2018.07.28-21.10.04:020][918]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinballGameMode]
+[2018.07.28-21.10.04:069][918]LogSavePackage: Save=31.42ms
+[2018.07.28-21.10.04:069][918]LogSavePackage: Moving '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/PinballGameMode_Auto3B77CB7224A58E5DD74DAA9BAF6B52985.tmp' to '../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto3.uasset'
+[2018.07.28-21.10.04:072][918]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/eu/Documents/Unreal Projects/Pinball_tut/Pinball_Tut_UE/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto3.uasset
+[2018.07.28-21.10.04:072][918]LogFileHelpers: Auto-saving content packages took 0.054
