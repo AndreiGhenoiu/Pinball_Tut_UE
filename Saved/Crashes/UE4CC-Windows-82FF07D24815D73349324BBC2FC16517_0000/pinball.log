@@ -1,0 +1,1523 @@
+﻿Log file open, 08/02/18 15:11:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: pinball
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1401672828) SRandInit(1401672828).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.135455
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.752s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am GHEANIMS1017 (10.31.121.83:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/and_web_assets/UE/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.02-19.11.30:641][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.02-19.11.30:641][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.02-19.11.30:655][  0]LogInit: Computer: GHEANIMS1017
+[2018.08.02-19.11.30:655][  0]LogInit: User: f000zsb
+[2018.08.02-19.11.30:655][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.08.02-19.11.30:655][  0]LogInit: High frequency timer resolution =2.835937 MHz
+[2018.08.02-19.11.30:655][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2018.08.02-19.11.30:655][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.02-19.11.30:655][  0]LogMemory: Process Physical Memory: 274.27 MB used, 274.27 MB peak
+[2018.08.02-19.11.30:655][  0]LogMemory: Process Virtual Memory: 266.04 MB used, 266.04 MB peak
+[2018.08.02-19.11.30:655][  0]LogMemory: Physical Memory: 6357.00 MB used,  9673.85 MB free, 16030.85 MB total
+[2018.08.02-19.11.30:655][  0]LogMemory: Virtual Memory: 685.37 MB used,  9673.85 MB free, 134217728.00 MB total
+[2018.08.02-19.11.30:670][  0]LogInit: Using OS detected language (en-US).
+[2018.08.02-19.11.30:670][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.02-19.11.30:673][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.08.02-19.11.31:063][  0]LogStreaming: Display: Took  0.393s to EndInitTextLocalization.
+[2018.08.02-19.11.31:064][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.02-19.11.31:093][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.02-19.11.31:093][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.02-19.11.31:284][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.02-19.11.31:294][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2018.08.02-19.11.31:294][  0]LogD3D11RHI:       128/0/8015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.08.02-19.11.31:295][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.02-19.11.31:295][  0]LogD3D11RHI:       0/0/8015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.02-19.11.31:297][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.02-19.11.31:297][  0]LogD3D11RHI:       0/0/8015 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.02-19.11.31:297][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.02-19.11.31:303][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.02-19.11.31:303][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2018.08.02-19.11.31:303][  0]LogWindows: EnumDisplayDevices:
+[2018.08.02-19.11.31:303][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2018.08.02-19.11.31:303][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.08.02-19.11.31:303][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2018.08.02-19.11.31:303][  0]LogWindows:    3. 'DisplayLink USB Device' (P:0 D:0)
+[2018.08.02-19.11.31:303][  0]LogWindows:    4. 'DisplayLink USB Device' (P:0 D:0)
+[2018.08.02-19.11.31:303][  0]LogWindows:    5. 'LANDesk Remote Control Mirror Driver' (P:0 D:0)
+[2018.08.02-19.11.31:303][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.02-19.11.31:303][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2018.08.02-19.11.31:303][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.02-19.11.31:303][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.02-19.11.31:303][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2018.08.02-19.11.31:309][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.02-19.11.31:313][  0]LogD3D11RHI: GPU Timing Frequency: 12.000000 (Debug: 2 0)
+[2018.08.02-19.11.31:314][  0]LogShaderCompilers: Guid format shader working directory is 19 characters bigger than the processId version (../../../../Projects/pinball/Intermediate/Shaders/WorkingDirectory/13884/).
+[2018.08.02-19.11.31:314][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/f000zsb/AppData/Local/Temp/UnrealShaderWorkingDir/726E9A38499B4A1475D5A2A2C0A72860/'.
+[2018.08.02-19.11.31:509][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.02-19.11.31:522][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.02-19.11.31:536][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.02-19.11.31:548][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.02-19.11.31:562][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.02-19.11.31:573][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.02-19.11.31:584][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.02-19.11.31:597][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.02-19.11.31:602][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.02-19.11.31:612][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.08.02-19.11.31:622][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.08.02-19.11.31:635][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.08.02-19.11.31:645][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.08.02-19.11.31:655][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.08.02-19.11.31:668][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.08.02-19.11.31:692][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.08.02-19.11.31:693][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.08.02-19.11.31:704][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.02-19.11.31:705][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.02-19.11.31:740][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.02-19.11.31:751][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.02-19.11.31:764][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.02-19.11.31:773][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.02-19.11.31:783][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.02-19.11.31:796][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.02-19.11.31:796][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.02-19.11.31:881][  0]LogXGEController: Cleaning working directory: C:/Users/f000zsb/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.08.02-19.11.31:881][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.02-19.11.31:881][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.02-19.11.31:881][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.02-19.11.32:703][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/f000zsb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/f000zsb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/pinball/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/pinball/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.02-19.11.32:781][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.02-19.11.32:803][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.02-19.11.32:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/f000zsb/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.02-19.11.32:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.02-19.11.32:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.02-19.11.32:830][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.02-19.11.32:830][  0]LogSlate: Using Freetype 2.6.0
+[2018.08.02-19.11.32:831][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.02-19.11.32:831][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.02-19.11.32:950][  0]LogAssetRegistry: FAssetRegistry took 0.0272 seconds to start up
+[2018.08.02-19.11.33:274][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.02-19.11.33:408][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.02-19.11.33:411][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.02-19.11.33:411][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.02-19.11.33:411][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.02-19.11.33:412][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.02-19.11.33:412][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.02-19.11.33:442][  0]LogNetVersion: pinball , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3476590221)
+[2018.08.02-19.11.33:872][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.074285 seconds
+[2018.08.02-19.11.33:878][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.08.02-19.11.33:878][  0]LogUObjectAllocator: 7314312 out of 0 bytes used by permanent object pool.
+[2018.08.02-19.11.33:878][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.02-19.11.35:287][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.02-19.11.35:312][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.02-19.11.35:617][  0]SourceControl: Source control is disabled
+[2018.08.02-19.11.35:617][  0]SourceControl: Source control is disabled
+[2018.08.02-19.11.35:629][  0]SourceControl: Source control is disabled
+[2018.08.02-19.11.35:642][  0]SourceControl: Source control is disabled
+[2018.08.02-19.11.36:052][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.02-19.11.36:179][  0]LogOcInput: OculusInput pre-init called
+[2018.08.02-19.11.36:269][  0]LogEngine: Initializing Engine...
+[2018.08.02-19.11.36:270][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.02-19.11.36:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.02-19.11.36:271][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.02-19.11.36:473][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.02-19.11.36:514][  0]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.11.36:531][  0]LogInit: FAudioDevice initialized.
+[2018.08.02-19.11.36:615][  0]LogDerivedDataCache: Saved boot cache 0.08s 74MB C:/Users/f000zsb/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.02-19.11.36:627][  0]LogInit: Texture streaming: Enabled
+[2018.08.02-19.11.36:646][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.02-19.11.36:659][  0]LogInit: Transaction tracking system initialized
+[2018.08.02-19.11.36:686][  0]BlueprintLog: New page: Editor Load
+[2018.08.02-19.11.36:756][  0]LocalizationService: Localization service is disabled
+[2018.08.02-19.11.37:066][  0]LogConsoleResponse: Display: 
+[2018.08.02-19.11.37:221][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.02-19.11.37:221][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.02-19.11.37:221][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.02-19.11.37:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.02-19.11.37:221][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.02-19.11.37:498][  0]LogFileCache: Scanning file cache for directory 'C:/and_web_assets/UE/Projects/pinball/Content/' took 0.01s
+[2018.08.02-19.11.37:498][  0]SourceControl: Source control is disabled
+[2018.08.02-19.11.37:498][  0]Cmd: MAP LOAD FILE="../../../../Projects/pinball/Content/Maps/NewMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.02-19.11.37:499][  0]LightingResults: New page: Lighting Build
+[2018.08.02-19.11.37:501][  0]MapCheck: New page: Map Check
+[2018.08.02-19.11.37:501][  0]LightingResults: New page: Lighting Build
+[2018.08.02-19.11.37:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430d2b00, Size=368, Default__Ball_C Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.08.02-19.11.37:607][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf430d2b00, Size=368
+[2018.08.02-19.11.37:608][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf42b24700, Size=368, Default__Ball_C Function /Engine/Transient.REINST_Ball_C_5:ExecuteUbergraph_Ball
+[2018.08.02-19.11.37:611][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf443fe980, Size=368, Default__Ball_C Function /Game/Blueprints/Ball.Ball_C:ExecuteUbergraph_Ball
+[2018.08.02-19.11.37:613][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430c3760, Size=32, Default__BallResetZone_C Function /Game/Blueprints/BallResetZone.BallResetZone_C:ExecuteUbergraph_BallResetZone
+[2018.08.02-19.11.37:614][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf430c3760, Size=32
+[2018.08.02-19.11.37:614][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430c3760, Size=32, Default__BallResetZone_C Function /Engine/Transient.REINST_BallResetZone_C_7:ExecuteUbergraph_BallResetZone
+[2018.08.02-19.11.37:615][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430c3b20, Size=32, Default__BallResetZone_C Function /Game/Blueprints/BallResetZone.BallResetZone_C:ExecuteUbergraph_BallResetZone
+[2018.08.02-19.11.37:643][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf42c24c40, Size=164, Default__BP_PLUNGER_C Function /Game/Blueprints/BP_PLUNGER.BP_PLUNGER_C:ExecuteUbergraph_BP_PLUNGER
+[2018.08.02-19.11.37:646][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf42c24c40, Size=164
+[2018.08.02-19.11.37:646][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430e0700, Size=164, Default__BP_PLUNGER_C Function /Engine/Transient.REINST_BP_PLUNGER_C_11:ExecuteUbergraph_BP_PLUNGER
+[2018.08.02-19.11.37:648][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4354ba00, Size=164, Default__BP_PLUNGER_C Function /Game/Blueprints/BP_PLUNGER.BP_PLUNGER_C:ExecuteUbergraph_BP_PLUNGER
+[2018.08.02-19.11.37:657][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf42c29d80, Size=8, Default__flipper_C Function /Game/Blueprints/flipper.flipper_C:ExecuteUbergraph_flipper
+[2018.08.02-19.11.37:661][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf42c29d80, Size=8
+[2018.08.02-19.11.37:661][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf42c29d80, Size=8, Default__flipper_C Function /Engine/Transient.REINST_flipper_C_13:ExecuteUbergraph_flipper
+[2018.08.02-19.11.37:664][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf42c29098, Size=8, Default__flipper_C Function /Game/Blueprints/flipper.flipper_C:ExecuteUbergraph_flipper
+[2018.08.02-19.11.37:669][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf434d8700, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.11.37:670][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4f9b3800, Size=496, Default__PinballPlayerController_C Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.08.02-19.11.37:684][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf434b7980, Size=128, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.11.37:687][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf430c03c0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.11.37:710][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf434b7980, Size=128
+[2018.08.02-19.11.37:710][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf434b7980, Size=128, Default__HighScoreEntry_C Function /Engine/Transient.REINST_HighScoreEntry_C_0:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.11.37:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf430c03c0, Size=32
+[2018.08.02-19.11.37:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4342c860, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_2:ExecuteUbergraph_MainMenu
+[2018.08.02-19.11.37:711][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf434d8700, Size=336
+[2018.08.02-19.11.37:711][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf433c9d80, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_15:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.11.37:712][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf4f9b3800, Size=496
+[2018.08.02-19.11.37:712][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4f9b3800, Size=496, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_16:ExecuteUbergraph_PinballPlayerController
+[2018.08.02-19.11.37:729][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf48207880, Size=128, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.11.37:730][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf48240500, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.11.37:733][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf481f9300, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.11.37:736][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf48202800, Size=496, Default__PinballPlayerController_C Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.08.02-19.11.37:759][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4823e5c0, Size=288, Default__bp_bumper_C Function /Game/Blueprints/bp_bumper.bp_bumper_C:ExecuteUbergraph_bp_bumper
+[2018.08.02-19.11.37:764][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf4823e5c0, Size=288
+[2018.08.02-19.11.37:764][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4823e5c0, Size=288, Default__bp_bumper_C Function /Engine/Transient.REINST_bp_bumper_C_23:ExecuteUbergraph_bp_bumper
+[2018.08.02-19.11.37:767][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf4823e0c0, Size=288, Default__bp_bumper_C Function /Game/Blueprints/bp_bumper.bp_bumper_C:ExecuteUbergraph_bp_bumper
+[2018.08.02-19.11.37:964][  0]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.11.37:977][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf42b24700, Size=368
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf430c3760, Size=32
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf430e0700, Size=164
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf42c29d80, Size=8
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf433c9d80, Size=336
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf4f9b3800, Size=496
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf434b7980, Size=128
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf4342c860, Size=32
+[2018.08.02-19.11.37:993][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf4823e5c0, Size=288
+[2018.08.02-19.11.37:995][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.02-19.11.38:061][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 66.488ms to complete.
+[2018.08.02-19.11.38:061][  0]LogFileHelpers: Loading map 'NewMap' took 0.563
+[2018.08.02-19.11.38:186][  0]LogCollectionManager: Loaded 0 collections in 0.001226 seconds
+[2018.08.02-19.11.38:227][  0]LogFileCache: Scanning file cache for directory 'C:/and_web_assets/UE/Projects/pinball/Saved/Collections/' took 0.01s
+[2018.08.02-19.11.38:227][  0]LogFileCache: Scanning file cache for directory 'C:/and_web_assets/UE/Projects/pinball/Content/Developers/f000zsb/Collections/' took 0.01s
+[2018.08.02-19.11.38:227][  0]LogFileCache: Scanning file cache for directory 'C:/and_web_assets/UE/Projects/pinball/Content/Collections/' took 0.01s
+[2018.08.02-19.11.38:227][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.02-19.11.38:237][  0]LogContentBrowser: Native class hierarchy populated in 0.0097 seconds. Added 2452 classes and 558 folders.
+[2018.08.02-19.11.38:243][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.02-19.11.38:278][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.02-19.11.38:282][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.08.02-19.11.38:299][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.02-19.11.38:301][  0]LogSlate: Took 0.000170 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.02-19.11.38:306][  0]LogSlate: Took 0.000180 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.02-19.11.38:417][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.08.02-19.11.39:348][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.02-19.11.39:349][  0]LogLoad: (Engine Initialization) Total time: 10.45 seconds
+[2018.08.02-19.11.39:349][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.02-19.11.39:366][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.08.02-19.11.39:383][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.08.02-19.11.39:400][  0]LogSlate: Took 0.000142 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.02-19.11.39:796][  1]LogAssetRegistry: Asset discovery search completed in 6.8678 seconds
+[2018.08.02-19.11.39:798][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.02-19.11.39:798][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000075 seconds (updated 0 objects)
+[2018.08.02-19.11.40:818][  6]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.02-19.11.40:820][  6]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.11.41:161][  6]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2018.08.02-19.11.41:441][  6]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf19a3d3b8, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.02-19.11.41:442][  6]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf19a3d3b0, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.08.02-19.11.42:661][  6]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.02-19.11.42:780][  7]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.02-19.11.49:018][158]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.11.49:065][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.11.49:065][158]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:11:49 AM)
+[2018.08.02-19.11.49:065][158]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.11.49:077][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012059s)
+[2018.08.02-19.11.49:079][158]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.11.49:080][158]LogPlayLevel: PIE: World Init took: (0.002175s)
+[2018.08.02-19.11.49:080][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.014658s)
+[2018.08.02-19.11.49:123][158]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.11.49:130][158]LogInit: FAudioDevice initialized.
+[2018.08.02-19.11.49:130][158]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.11.49:171][158]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.11.49:174][158]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.11.49
+[2018.08.02-19.11.49:174][158]LogWorld: Bringing up level for play took: 0.002679
+[2018.08.02-19.11.49:177][158]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.08.02-19.11.49:179][158]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.44
+[2018.08.02-19.11.57:012][408]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.12.45:711][669]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.12.45:758][669]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.12.45:758][669]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:12:45 AM)
+[2018.08.02-19.12.45:758][669]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.12.45:770][669]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011985s)
+[2018.08.02-19.12.45:771][669]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.12.45:771][669]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2018.08.02-19.12.45:771][669]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.012896s)
+[2018.08.02-19.12.45:809][669]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.12.45:817][669]LogInit: FAudioDevice initialized.
+[2018.08.02-19.12.45:817][669]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.12.45:847][669]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.12.45:849][669]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.12.45
+[2018.08.02-19.12.45:849][669]LogWorld: Bringing up level for play took: 0.001468
+[2018.08.02-19.12.45:850][669]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_detectFlippers', from offset 2732
+[2018.08.02-19.12.45:850][669]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ReceiveBeginPlay
+	Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+
+[2018.08.02-19.13.12:172][669]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 26.553
+[2018.08.02-19.19.46:576][183]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.19.46:668][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf481f9300, Size=336
+[2018.08.02-19.19.46:668][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3f53400, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_45:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.19.46:675][183]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf80acb100, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.19.50:619][261]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.19.50:671][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.19.50:671][261]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:19:50 AM)
+[2018.08.02-19.19.50:671][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.19.50:677][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005058s)
+[2018.08.02-19.19.50:677][261]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.19.50:677][261]LogPlayLevel: PIE: World Init took: (0.000888s)
+[2018.08.02-19.19.50:678][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.006144s)
+[2018.08.02-19.19.50:705][261]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3f53400, Size=336
+[2018.08.02-19.19.50:709][261]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.19.50:716][261]LogInit: FAudioDevice initialized.
+[2018.08.02-19.19.50:750][261]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.19.50:752][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.19.50
+[2018.08.02-19.19.50:752][261]LogWorld: Bringing up level for play took: 0.001665
+[2018.08.02-19.19.50:754][261]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_detectFlippers', from offset 2732
+[2018.08.02-19.19.50:754][261]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ReceiveBeginPlay
+	Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+
+[2018.08.02-19.20.00:617][261]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 9.003
+[2018.08.02-19.20.10:603][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2018.08.02-19.20.10:663][657]LogSavePackage: Save=32.61ms
+[2018.08.02-19.20.10:663][657]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballPlayerController39329DC341FCC41EFB8B65A4088223B2.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2018.08.02-19.20.10:666][657]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset
+[2018.08.02-19.20.13:109][726]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2018.08.02-19.20.13:183][726]LogSavePackage: Save=50.64ms
+[2018.08.02-19.20.13:183][726]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameMode6831091C42AC28762C5525B51641D357.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset'
+[2018.08.02-19.20.13:185][726]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset
+[2018.08.02-19.23.06:669][737]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.028
+[2018.08.02-19.23.06:670][737]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu] ([1] browsable assets)...
+[2018.08.02-19.23.06:670][737]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu]
+[2018.08.02-19.23.06:670][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-19.23.06:709][737]LogSavePackage: Save=18.18ms
+[2018.08.02-19.23.06:709][737]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu_Auto1C19DD34F47698E0B7E8C6BB9C8B9D45C.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto1.uasset'
+[2018.08.02-19.23.06:710][737]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto1.uasset
+[2018.08.02-19.23.06:710][737]LogFileHelpers: Auto-saving content packages took 0.040
+[2018.08.02-19.25.41:991][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballPlayerController" FILE="../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset" SILENT=true
+[2018.08.02-19.25.42:073][343]LogSavePackage: Save=43.95ms
+[2018.08.02-19.25.42:073][343]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballPlayerControllerD08F6CD8450D0BB2074963A16D5217DF.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset'
+[2018.08.02-19.25.42:076][343]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballPlayerController.uasset
+[2018.08.02-19.25.42:928][368]BlueprintLog: New page: Compile PinballPlayerController
+[2018.08.02-19.25.42:981][368]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf48202800, Size=496
+[2018.08.02-19.25.42:982][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9dadc200, Size=496, Default__PinballPlayerController_C Function /Engine/Transient.REINST_PinballPlayerController_C_51:ExecuteUbergraph_PinballPlayerController
+[2018.08.02-19.25.42:991][368]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9dadc400, Size=496, Default__PinballPlayerController_C Function /Game/Blueprints/PinballPlayerController.PinballPlayerController_C:ExecuteUbergraph_PinballPlayerController
+[2018.08.02-19.25.46:063][420]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.25.46:113][420]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.08.02-19.25.46:116][420]LogPlayLevel: [PlayLevel] Compiling MainMenu before play...
+[2018.08.02-19.25.46:119][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf48240500, Size=32
+[2018.08.02-19.25.46:119][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6bf25260, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_9:ExecuteUbergraph_MainMenu
+[2018.08.02-19.25.46:121][420]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6bf256e0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.25.46:228][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6bf25260, Size=32
+[2018.08.02-19.25.46:228][420]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9dadc200, Size=496
+[2018.08.02-19.25.46:229][420]LogPlayLevel: PlayLevel: Blueprint regeneration took 116 ms (1 blueprints)
+[2018.08.02-19.25.46:229][420]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:25:46 AM)
+[2018.08.02-19.25.46:229][420]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.25.46:234][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004920s)
+[2018.08.02-19.25.46:234][420]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.25.46:235][420]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.08.02-19.25.46:235][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.005790s)
+[2018.08.02-19.25.46:261][420]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.25.46:267][420]LogInit: FAudioDevice initialized.
+[2018.08.02-19.25.46:303][420]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.25.46:305][420]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.25.46
+[2018.08.02-19.25.46:305][420]LogWorld: Bringing up level for play took: 0.001546
+[2018.08.02-19.25.46:307][420]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.695
+[2018.08.02-19.25.50:416][594]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.25.57:662][914]LogBlueprintUserMessages: [HighScoreEntry_C_11] dafsa
+[2018.08.02-19.29.25:793][575]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.29.25:843][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.29.25:843][575]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:29:25 AM)
+[2018.08.02-19.29.25:844][575]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.29.25:857][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013483s)
+[2018.08.02-19.29.25:858][575]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.29.25:858][575]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2018.08.02-19.29.25:858][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.014421s)
+[2018.08.02-19.29.25:900][575]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.29.25:906][575]LogInit: FAudioDevice initialized.
+[2018.08.02-19.29.25:906][575]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.29.25:936][575]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.29.25:938][575]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.29.25
+[2018.08.02-19.29.25:939][575]LogWorld: Bringing up level for play took: 0.001627
+[2018.08.02-19.29.25:940][575]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.33
+[2018.08.02-19.29.42:863][294]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.30.57:645][555]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.30.57:812][555]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf80acb100, Size=336
+[2018.08.02-19.30.57:812][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17c61000, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_65:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.30.57:823][555]LogBlueprint: Error: [Compiler PinballGameMode] This blueprint (self) is not a PlayerController, therefore ' Target ' must have a connection.
+[2018.08.02-19.30.57:824][555]LogBlueprint: Error: [Compiler PinballGameMode] Variable node  Set bShowMouseCursor  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2018.08.02-19.30.57:826][555]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa42b6b00, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.30.58:028][555]LogBlueprint: Warning: [Compiler PinballGameMode] [1169.14] Compile of PinballGameMode failed. 2 Fatal Issue(s) 0 Warning(s) [in 383 ms] (/Game/Blueprints/PinballGameMode.PinballGameMode)
+[2018.08.02-19.31.12:563][900]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.31.12:715][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa42b6b00, Size=336
+[2018.08.02-19.31.12:715][900]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfbe13a200, Size=336, PinballGameMode_C_14 Function /Engine/Transient.REINST_PinballGameMode_C_75:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.31.12:729][900]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9484ee00, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.31.12:886][900]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17c61000, Size=336
+[2018.08.02-19.31.18:576][ 15]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.31.18:618][ 15]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.31.18:618][ 15]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:31:18 AM)
+[2018.08.02-19.31.18:619][ 15]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.31.18:629][ 15]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010282s)
+[2018.08.02-19.31.18:630][ 15]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.31.18:631][ 15]LogPlayLevel: PIE: World Init took: (0.001927s)
+[2018.08.02-19.31.18:631][ 15]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.012430s)
+[2018.08.02-19.31.18:667][ 15]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfbe13a200, Size=336
+[2018.08.02-19.31.18:673][ 15]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.31.18:682][ 15]LogInit: FAudioDevice initialized.
+[2018.08.02-19.31.18:682][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.31.18:717][ 15]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.31.18:719][ 15]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.31.18
+[2018.08.02-19.31.18:719][ 15]LogWorld: Bringing up level for play took: 0.001511
+[2018.08.02-19.31.18:721][ 15]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.112
+[2018.08.02-19.31.24:406][192]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.31.27:311][270]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.31.27:391][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.31.27:392][270]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:31:27 AM)
+[2018.08.02-19.31.27:392][270]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.31.27:405][270]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013369s)
+[2018.08.02-19.31.27:406][270]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.31.27:406][270]LogPlayLevel: PIE: World Init took: (0.001113s)
+[2018.08.02-19.31.27:406][270]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.014792s)
+[2018.08.02-19.31.27:456][270]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.31.27:466][270]LogInit: FAudioDevice initialized.
+[2018.08.02-19.31.27:467][270]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.31.27:502][270]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.31.27:504][270]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.31.27
+[2018.08.02-19.31.27:505][270]LogWorld: Bringing up level for play took: 0.001926
+[2018.08.02-19.31.27:507][270]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.103
+[2018.08.02-19.31.32:076][410]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.31.39:680][588]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.31.39:862][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2018.08.02-19.31.40:034][591]LogSavePackage: Save=115.83ms
+[2018.08.02-19.31.40:034][591]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameModeD6F6820D405B0BF3FF8A48A352472424.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset'
+[2018.08.02-19.31.40:039][591]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset
+[2018.08.02-19.32.09:201][790]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.32.21:602][ 66]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbfdd0, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.32.35:371][383]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.32.35:376][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbfdd0, Size=4
+[2018.08.02-19.32.35:376][383]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95aa20, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_19:ExecuteUbergraph_MainMenu
+[2018.08.02-19.32.35:409][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6bf256e0, Size=32
+[2018.08.02-19.32.35:409][383]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6fc15f60, Size=32, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_20:ExecuteUbergraph_MainMenu
+[2018.08.02-19.32.35:413][383]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6fc158e0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.32.35:415][383]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.32.35:415][383]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.32.35:468][383]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95aa20, Size=4
+[2018.08.02-19.32.35:554][383]LogBlueprint: Warning: [Compiler MainMenu] [1266.67] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 182 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.32.42:905][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.32.42:984][515]LogSavePackage: Save=27.12ms
+[2018.08.02-19.32.42:984][515]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu2B4B1C544DE430DBE5B76FB8A224DD67.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.32.42:992][515]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.32.48:649][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.34.20:160][141]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.34.20:262][141]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9484ee00, Size=336
+[2018.08.02-19.34.20:262][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb1bfbb80, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_90:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.34.20:271][141]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf948a6b00, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.34.23:592][225]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2018.08.02-19.34.23:689][225]LogSavePackage: Save=72.39ms
+[2018.08.02-19.34.23:689][225]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameMode3563FC824ECD401DBBAFF68910FC3098.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset'
+[2018.08.02-19.34.23:692][225]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset
+[2018.08.02-19.34.24:648][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.34.25:987][290]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.34.26:016][290]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6fc158e0, Size=32
+[2018.08.02-19.34.26:016][290]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9d78b060, Size=32, MainMenu_C_41 Function /Engine/Transient.REINST_MainMenu_C_26:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.26:020][290]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9d788e40, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.26:022][290]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.34.26:022][290]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.34.26:066][290]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb1bfbb80, Size=336
+[2018.08.02-19.34.26:098][290]LogBlueprint: Warning: [Compiler MainMenu] [1377.21] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 111 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.34.45:561][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:565][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_58' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:574][763]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_60' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:634][764]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_62' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:642][764]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_64' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:686][765]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_66' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:698][765]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_68' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:756][766]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_70' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:801][767]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_72' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:813][767]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_74' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:859][768]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_76' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:904][769]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_78' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.45:959][770]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_80' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.46:001][771]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_82' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.46:047][772]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_84' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.46:093][773]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_86' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.34.46:144][774]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95a150, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.55:771][957]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.34.55:779][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95a150, Size=4
+[2018.08.02-19.34.55:779][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95a150, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_28:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.55:813][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9d788e40, Size=32
+[2018.08.02-19.34.55:813][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3a76de0, Size=32, MainMenu_C_47 Function /Engine/Transient.REINST_MainMenu_C_29:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.55:817][957]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3a74080, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.34.55:819][957]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.34.55:819][957]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.34.55:862][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9d78b060, Size=32
+[2018.08.02-19.34.55:863][957]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95a150, Size=4
+[2018.08.02-19.34.55:956][957]LogBlueprint: Warning: [Compiler MainMenu] [1407.07] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 184 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.35.07:346][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.35.07:415][161]LogSavePackage: Save=34.23ms
+[2018.08.02-19.35.07:415][161]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu11F264504CD914B989682299FDA4190A.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.35.07:420][161]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.35.08:319][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.35.08:361][179]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.35.08:382][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3a74080, Size=32
+[2018.08.02-19.35.08:382][179]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6fc144c0, Size=32, MainMenu_C_51 Function /Engine/Transient.REINST_MainMenu_C_31:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.08:388][179]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6fc14960, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.08:390][179]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.35.08:390][179]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.35.08:442][179]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3a76de0, Size=32
+[2018.08.02-19.35.08:541][179]LogBlueprint: Warning: [Compiler MainMenu] [1419.66] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 179 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.35.12:181][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.35.12:257][254]LogSavePackage: Save=40.98ms
+[2018.08.02-19.35.12:257][254]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenuEE3606FE48283D29B4513E8D9E10B716.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.35.12:259][254]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.35.12:873][271]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.35.12:935][273]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.35.12:955][273]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6fc14960, Size=32
+[2018.08.02-19.35.12:955][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf7fdd7f40, Size=32, MainMenu_C_55 Function /Engine/Transient.REINST_MainMenu_C_33:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.12:958][273]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3a76e60, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.12:960][273]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.35.12:960][273]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.35.13:034][273]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6fc144c0, Size=32
+[2018.08.02-19.35.13:064][273]LogBlueprint: Warning: [Compiler MainMenu] [1424.18] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 129 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.35.35:051][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbee40, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.35:068][860]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbee40, Size=4
+[2018.08.02-19.35.35:068][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbee40, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_35:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.35:071][860]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbcc50, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.37:343][919]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbcc50, Size=4
+[2018.08.02-19.35.37:343][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbcc50, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_36:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.37:346][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbd2d0, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.37:357][919]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbd2d0, Size=4
+[2018.08.02-19.35.37:357][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbd2d0, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_37:ExecuteUbergraph_MainMenu
+[2018.08.02-19.35.37:361][919]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbd3b0, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.13:290][233]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.36.13:296][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbd3b0, Size=4
+[2018.08.02-19.36.13:296][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17dbd3b0, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_38:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.13:304][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3a76e60, Size=32
+[2018.08.02-19.36.13:304][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb195c360, Size=32, MainMenu_C_63 Function /Engine/Transient.REINST_MainMenu_C_39:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.13:308][233]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb195dde0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.13:310][233]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.36.13:310][233]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.36.13:348][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbd3b0, Size=4
+[2018.08.02-19.36.13:348][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbd2d0, Size=4
+[2018.08.02-19.36.13:348][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf7fdd7f40, Size=32
+[2018.08.02-19.36.13:348][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbcc50, Size=4
+[2018.08.02-19.36.13:348][233]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17dbee40, Size=4
+[2018.08.02-19.36.13:376][233]LogBlueprint: Warning: [Compiler MainMenu] [1484.49] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 85 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.36.18:394][370]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.36.18:459][370]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.36.20:055][370]LogSlate: Window 'Message' being destroyed
+[2018.08.02-19.36.20:059][370]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:36:20 AM)
+[2018.08.02-19.36.20:059][370]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.36.20:066][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006463s)
+[2018.08.02-19.36.20:067][370]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.36.20:067][370]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2018.08.02-19.36.20:067][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.007738s)
+[2018.08.02-19.36.20:090][370]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb195c360, Size=32
+[2018.08.02-19.36.20:094][370]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.36.20:102][370]LogInit: FAudioDevice initialized.
+[2018.08.02-19.36.20:102][370]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.36.20:133][370]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.36.20:135][370]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.36.20
+[2018.08.02-19.36.20:135][370]LogWorld: Bringing up level for play took: 0.001426
+[2018.08.02-19.36.20:137][370]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 2.529
+[2018.08.02-19.36.28:534][650]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.36.28:577][650]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.36.28:577][650]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:36:28 AM)
+[2018.08.02-19.36.28:577][650]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.36.28:584][650]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007323s)
+[2018.08.02-19.36.28:585][650]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.36.28:585][650]LogPlayLevel: PIE: World Init took: (0.000845s)
+[2018.08.02-19.36.28:585][650]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.008359s)
+[2018.08.02-19.36.28:636][650]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.36.28:642][650]LogInit: FAudioDevice initialized.
+[2018.08.02-19.36.28:642][650]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.36.28:676][650]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.36.28:677][650]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.36.28
+[2018.08.02-19.36.28:678][650]LogWorld: Bringing up level for play took: 0.001388
+[2018.08.02-19.36.28:681][650]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.073
+[2018.08.02-19.36.36:456][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.36.36:538][872]LogSavePackage: Save=38.36ms
+[2018.08.02-19.36.36:538][872]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu6F079CC94E710DC1E34DC28CB38528BF.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.36.36:543][872]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.36.37:308][893]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.36.37:328][893]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb195dde0, Size=32
+[2018.08.02-19.36.37:328][893]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3a769a0, Size=32, MainMenu_C_73 Function /Engine/Transient.REINST_MainMenu_C_41:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.37:331][893]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa3a75260, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.36.37:333][893]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.36.37:333][893]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.36.37:435][893]LogBlueprint: Warning: [Compiler MainMenu] [1508.55] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 126 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.37.23:791][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.37.23:860][911]LogSavePackage: Save=31.56ms
+[2018.08.02-19.37.23:861][911]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu3E0B54B843D333C6F4BD3D80200A45BB.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.37.23:865][911]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.37.24:554][924]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.37.24:574][924]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3a75260, Size=32
+[2018.08.02-19.37.24:574][924]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9d717240, Size=32, MainMenu_C_78 Function /Engine/Transient.REINST_MainMenu_C_43:ExecuteUbergraph_MainMenu
+[2018.08.02-19.37.24:577][924]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9d7171a0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.37.24:578][924]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.37.24:578][924]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.37.24:625][924]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa3a769a0, Size=32
+[2018.08.02-19.37.24:718][924]LogBlueprint: Warning: [Compiler MainMenu] [1555.83] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 163 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.41.52:290][483]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:292][483]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_90' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:296][483]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_92' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:330][484]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_94' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:335][484]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_96' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:364][485]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_98' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:390][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_100' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:394][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_102' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:402][486]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_104' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:434][487]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_106' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:464][488]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_108' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:497][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_110' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:503][489]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_112' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:534][490]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_114' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:537][490]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_116' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:566][491]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_118' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:571][491]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_120' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:574][491]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_122' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:607][492]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_124' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:613][492]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_126' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:645][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_128' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:651][493]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_130' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:680][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_132' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:685][494]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_134' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:716][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_136' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:721][495]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_138' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:750][496]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_140' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:780][497]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_142' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:815][498]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_144' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:850][499]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_146' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:888][500]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_148' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:929][501]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_150' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.52:966][502]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_152' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.53:005][503]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_154' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.53:041][504]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.HighScoreWidget_C_156' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.08.02-19.41.53:083][505]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb142be28, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.54:085][530]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb142be28, Size=4
+[2018.08.02-19.41.54:085][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95a828, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_45:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.54:087][530]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95a748, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.55:777][574]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.41.55:823][574]LogSavePackage: Save=16.35ms
+[2018.08.02-19.41.55:823][574]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenuBF2B4950438E6153920F378D707B4B38.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.41.55:825][574]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.41.56:499][594]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.41.56:503][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95a748, Size=4
+[2018.08.02-19.41.56:503][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb14299c8, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_46:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.56:512][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9d7171a0, Size=32
+[2018.08.02-19.41.56:512][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf7fdd6c00, Size=32, MainMenu_C_85 Function /Engine/Transient.REINST_MainMenu_C_47:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.56:515][594]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf7fdd4720, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.41.56:557][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb14299c8, Size=4
+[2018.08.02-19.41.56:557][594]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95a828, Size=4
+[2018.08.02-19.42.04:803][818]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b959bd0, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.06:435][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.42.06:483][854]LogSavePackage: Save=17.04ms
+[2018.08.02-19.42.06:483][854]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenuA1E9B24348A8D62BD4934590FC2C3BD0.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.42.06:485][854]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.42.07:191][874]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.42.07:195][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b959bd0, Size=4
+[2018.08.02-19.42.07:195][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b959bd0, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_49:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.07:201][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf7fdd4720, Size=32
+[2018.08.02-19.42.07:201][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaaa2c300, Size=32, MainMenu_C_90 Function /Engine/Transient.REINST_MainMenu_C_50:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.07:203][874]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaaa2ca60, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.07:204][874]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.42.07:204][874]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.42.07:241][874]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b959bd0, Size=4
+[2018.08.02-19.42.07:314][874]LogBlueprint: Warning: [Compiler MainMenu] [1838.43] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 122 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.42.09:089][921]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.42.09:101][921]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfaaa2ca60, Size=32
+[2018.08.02-19.42.09:101][921]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaaa2ca60, Size=32, MainMenu_C_94 Function /Engine/Transient.REINST_MainMenu_C_52:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.09:105][921]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaaa2de40, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.09:107][921]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.42.09:107][921]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.42.09:143][921]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfaaa2c300, Size=32
+[2018.08.02-19.42.09:212][921]LogBlueprint: Warning: [Compiler MainMenu] [1840.33] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 122 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.42.16:121][101]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.42.16:134][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfaaa2de40, Size=32
+[2018.08.02-19.42.16:135][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf9d715120, Size=32, MainMenu_C_98 Function /Engine/Transient.REINST_MainMenu_C_54:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.16:136][101]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb1bc3600, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.42.16:137][101]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.42.16:137][101]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.42.16:173][101]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfaaa2ca60, Size=32
+[2018.08.02-19.42.16:247][101]LogBlueprint: Warning: [Compiler MainMenu] [1847.37] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 124 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.47.02:322][269]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb1429318, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.04:460][325]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.47.04:464][325]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb1429318, Size=4
+[2018.08.02-19.47.04:464][325]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95b868, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_56:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.04:486][325]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb1bc3600, Size=32
+[2018.08.02-19.47.04:486][325]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc93847e0, Size=32, MainMenu_C_103 Function /Engine/Transient.REINST_MainMenu_C_57:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.04:490][325]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc93843c0, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.04:491][325]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.47.04:491][325]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.47.04:531][325]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95b868, Size=4
+[2018.08.02-19.47.04:531][325]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9d715120, Size=32
+[2018.08.02-19.47.04:594][325]LogBlueprint: Warning: [Compiler MainMenu] [2135.72] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 134 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.47.07:411][399]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfb142a9c8, Size=4, Default__SKEL_MainMenu_C Function /Game/Blueprints/MainMenu.SKEL_MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.08:932][426]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.47.08:939][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfb142a9c8, Size=4
+[2018.08.02-19.47.08:939][426]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b958228, Size=4, Default__SKEL_MainMenu_C Function /Engine/Transient.REINST_SKEL_MainMenu_C_59:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.08:950][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc93843c0, Size=32
+[2018.08.02-19.47.08:950][426]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6bf262c0, Size=32, MainMenu_C_108 Function /Engine/Transient.REINST_MainMenu_C_60:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.08:954][426]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf6bf24260, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.47.08:956][426]LogBlueprint: Error: [Compiler MainMenu] Unable To Create Template For Widget.
+[2018.08.02-19.47.08:956][426]LogBlueprint: Error: [Compiler MainMenu] Fast CreateWidget Warning!  This class can not be created using the fast path, because the property SourceObject on PropertyBinding references HighScoreWidget.  Please add the 'Instanced' flag to this property.
+[2018.08.02-19.47.09:005][426]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b958228, Size=4
+[2018.08.02-19.47.09:109][426]LogBlueprint: Warning: [Compiler MainMenu] [2140.23] Compile of MainMenu failed. 2 Fatal Issue(s) 0 Warning(s) [in 176 ms] (/Game/Blueprints/MainMenu.MainMenu)
+[2018.08.02-19.47.24:588][821]BlueprintLog: New page: Compile HighScoreWidget
+[2018.08.02-19.47.35:391][ 92]BlueprintLog: New page: Compile HighScoreWidget
+[2018.08.02-19.48.12:787][796]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.061
+[2018.08.02-19.48.12:790][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighScoreEntry] ([1] browsable assets)...
+[2018.08.02-19.48.12:790][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighScoreEntry]
+[2018.08.02-19.48.12:790][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreEntry" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-19.48.12:865][796]LogSavePackage: Save=35.37ms
+[2018.08.02-19.48.12:865][796]LogSavePackage: Moving '../../../../Projects/pinball/Saved/HighScoreEntry_Auto2770F9DCF4F8E55AA6DFC13A64C9AF9B0.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset'
+[2018.08.02-19.48.12:869][796]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighScoreEntry_Auto2.uasset
+[2018.08.02-19.48.12:869][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HighSCoreWidget] ([1] browsable assets)...
+[2018.08.02-19.48.12:869][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HighSCoreWidget]
+[2018.08.02-19.48.12:869][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighSCoreWidget" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighSCoreWidget_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-19.48.12:926][796]LogSavePackage: Save=32.60ms
+[2018.08.02-19.48.12:926][796]LogSavePackage: Moving '../../../../Projects/pinball/Saved/HighSCoreWidget_Auto2E1F7D91446EF6459E22EB3860669544F.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighSCoreWidget_Auto2.uasset'
+[2018.08.02-19.48.12:928][796]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/HighSCoreWidget_Auto2.uasset
+[2018.08.02-19.48.12:929][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu] ([1] browsable assets)...
+[2018.08.02-19.48.12:929][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu]
+[2018.08.02-19.48.12:929][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-19.48.12:977][796]LogSavePackage: Save=24.85ms
+[2018.08.02-19.48.12:977][796]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenu_Auto204198AB24CE2FFA60CFC41A1EBA014BC.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto2.uasset'
+[2018.08.02-19.48.12:978][796]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/MainMenu_Auto2.uasset
+[2018.08.02-19.48.12:978][796]LogFileHelpers: Auto-saving content packages took 0.190
+[2018.08.02-19.48.24:657][ 16]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/MainMenu" FILE="../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset" SILENT=true
+[2018.08.02-19.48.24:735][ 16]LogSavePackage: Save=35.34ms
+[2018.08.02-19.48.24:735][ 16]LogSavePackage: Moving '../../../../Projects/pinball/Saved/MainMenuE6B1B79A487EADAA714DCB86324C6C92.tmp' to '../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset'
+[2018.08.02-19.48.24:746][ 16]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/MainMenu.uasset
+[2018.08.02-19.48.25:846][ 36]BlueprintLog: New page: Compile MainMenu
+[2018.08.02-19.48.25:868][ 36]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6bf24260, Size=32
+[2018.08.02-19.48.25:869][ 36]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf1a1f6160, Size=32, MainMenu_C_116 Function /Engine/Transient.REINST_MainMenu_C_70:ExecuteUbergraph_MainMenu
+[2018.08.02-19.48.25:872][ 36]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc6d4dc60, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.48.36:537][223]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.48.36:612][223]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.48.36:613][223]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:48:36 AM)
+[2018.08.02-19.48.36:613][223]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.48.36:621][223]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008767s)
+[2018.08.02-19.48.36:623][223]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.48.36:623][223]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.08.02-19.48.36:623][223]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.010234s)
+[2018.08.02-19.48.36:667][223]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.48.36:678][223]LogInit: FAudioDevice initialized.
+[2018.08.02-19.48.36:678][223]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.48.36:718][223]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.48.36:721][223]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.48.36
+[2018.08.02-19.48.36:722][223]LogWorld: Bringing up level for play took: 0.003114
+[2018.08.02-19.48.36:725][223]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 1.124
+[2018.08.02-19.48.42:334][358]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.49.01:933][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.49.05:667][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighScoreEntry" FILE="../../../../Projects/pinball/Content/Blueprints/HighScoreEntry.uasset" SILENT=true
+[2018.08.02-19.49.05:762][923]LogSavePackage: Save=47.16ms
+[2018.08.02-19.49.05:762][923]LogSavePackage: Moving '../../../../Projects/pinball/Saved/HighScoreEntry58C8E097404C5546A1968A8DB9C9494C.tmp' to '../../../../Projects/pinball/Content/Blueprints/HighScoreEntry.uasset'
+[2018.08.02-19.49.05:770][923]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/HighScoreEntry.uasset
+[2018.08.02-19.49.06:286][936]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-19.49.06:353][938]BlueprintLog: New page: Compile HighScoreEntry
+[2018.08.02-19.49.06:387][938]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf48207880, Size=128
+[2018.08.02-19.49.06:387][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc945ab00, Size=128, Default__HighScoreEntry_C Function /Engine/Transient.REINST_HighScoreEntry_C_72:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.49.06:396][938]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc9459600, Size=128, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.49.41:594][842]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.49.41:765][842]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf948a6b00, Size=336
+[2018.08.02-19.49.41:766][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc5536f80, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_182:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.49.41:789][842]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf573a6380, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.49.43:330][868]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2018.08.02-19.49.43:538][868]LogSavePackage: Save=147.28ms
+[2018.08.02-19.49.43:538][868]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameMode5C8A160C4F5E466E526283946EBFC6C2.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset'
+[2018.08.02-19.49.43:542][868]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset
+[2018.08.02-19.49.46:544][923]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.49.46:624][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.49.46:624][923]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:49:46 AM)
+[2018.08.02-19.49.46:624][923]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.49.46:635][923]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011135s)
+[2018.08.02-19.49.46:636][923]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.49.46:637][923]LogPlayLevel: PIE: World Init took: (0.001244s)
+[2018.08.02-19.49.46:637][923]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.012682s)
+[2018.08.02-19.49.46:679][923]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc5536f80, Size=336
+[2018.08.02-19.49.46:689][923]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.49.46:700][923]LogInit: FAudioDevice initialized.
+[2018.08.02-19.49.46:701][923]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.49.46:740][923]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.49.46:743][923]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.49.46
+[2018.08.02-19.49.46:743][923]LogWorld: Bringing up level for play took: 0.001934
+[2018.08.02-19.49.46:747][923]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.854
+[2018.08.02-19.49.51:581][ 66]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.50.06:071][513]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_CreateHighScoresList', from offset 579
+[2018.08.02-19.50.06:071][513]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:OnBallDestroyed
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:EndGame
+	Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+
+[2018.08.02-19.50.17:611][675]LogBlueprintUserMessages: [HighScoreEntry_C_62] 5454654
+[2018.08.02-19.50.34:026][151]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset" SILENT=true
+[2018.08.02-19.50.34:187][151]LogSavePackage: Save=119.30ms
+[2018.08.02-19.50.34:187][151]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameModeBD0100AB41B0A5DEF45FA992E9A2FD3C.tmp' to '../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset'
+[2018.08.02-19.50.34:192][151]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/PinballGameMode.uasset
+[2018.08.02-19.53.09:587][969]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfcb02d610, Size=4, Default__SKEL_HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.SKEL_HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.14:231][ 99]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfcb02d610, Size=4
+[2018.08.02-19.53.14:231][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf19a3c5e8, Size=4, Default__SKEL_HighScoreWidget_C Function /Engine/Transient.REINST_SKEL_HighScoreWidget_C_79:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.14:234][ 99]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf19a3c640, Size=4, Default__SKEL_HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.SKEL_HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.40:043][380]BlueprintLog: New page: Compile HighScoreWidget
+[2018.08.02-19.53.40:057][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf19a3c640, Size=4
+[2018.08.02-19.53.40:057][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b9590a8, Size=4, Default__SKEL_HighScoreWidget_C Function /Engine/Transient.REINST_SKEL_HighScoreWidget_C_81:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.40:135][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc9459600, Size=128
+[2018.08.02-19.53.40:135][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaab2c900, Size=128, HighScoreEntry_C_64 Function /Engine/Transient.REINST_HighScoreEntry_C_83:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.53.40:135][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc6d4dc60, Size=32
+[2018.08.02-19.53.40:135][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc4557540, Size=32, MainMenu_C_129 Function /Engine/Transient.REINST_MainMenu_C_85:ExecuteUbergraph_MainMenu
+[2018.08.02-19.53.40:136][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf573a6380, Size=336
+[2018.08.02-19.53.40:136][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfa31d4b80, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_192:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.53.40:146][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfaab2d200, Size=128, Default__HighScoreEntry_C Function /Game/Blueprints/HighScoreEntry.HighScoreEntry_C:ExecuteUbergraph_HighScoreEntry
+[2018.08.02-19.53.40:148][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17965ee0, Size=32, Default__HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.40:148][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf17965020, Size=32, Default__MainMenu_C Function /Game/Blueprints/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.02-19.53.40:150][380]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc8a4c580, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.53.40:329][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b9590a8, Size=4
+[2018.08.02-19.53.40:329][380]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf19a3c5e8, Size=4
+[2018.08.02-19.53.47:113][569]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cf8b95a348, Size=4, Default__SKEL_HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.SKEL_HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.48:750][613]BlueprintLog: New page: Compile HighScoreWidget
+[2018.08.02-19.53.48:760][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf8b95a348, Size=4
+[2018.08.02-19.53.48:760][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc84c55f0, Size=4, Default__SKEL_HighScoreWidget_C Function /Engine/Transient.REINST_SKEL_HighScoreWidget_C_88:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.48:770][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf17965ee0, Size=32
+[2018.08.02-19.53.48:770][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc9e05000, Size=32, HighScoreWidget_C_318 Function /Engine/Transient.REINST_HighScoreWidget_C_90:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.48:775][613]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc6b088c0, Size=32, Default__HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.53.48:884][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfa31d4b80, Size=336
+[2018.08.02-19.53.48:885][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc84c55f0, Size=4
+[2018.08.02-19.53.48:885][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfaab2c900, Size=128
+[2018.08.02-19.53.48:885][613]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc4557540, Size=32
+[2018.08.02-19.53.49:462][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighSCoreWidget" FILE="../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset" SILENT=true
+[2018.08.02-19.53.49:521][626]LogSavePackage: Save=21.68ms
+[2018.08.02-19.53.49:521][626]LogSavePackage: Moving '../../../../Projects/pinball/Saved/HighSCoreWidget40474F4241559A061AE870AC6A75BD1E.tmp' to '../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset'
+[2018.08.02-19.53.49:523][626]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset
+[2018.08.02-19.54.04:313][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfcc554688, Size=4, Default__SKEL_HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.SKEL_HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.54.04:350][769]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfcc554688, Size=4
+[2018.08.02-19.54.04:350][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfcb02c830, Size=4, Default__SKEL_HighScoreWidget_C Function /Engine/Transient.REINST_SKEL_HighScoreWidget_C_92:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.54.04:351][769]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfcb02c120, Size=4, Default__SKEL_HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.SKEL_HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.55.35:277][502]BlueprintLog: New page: Compile HighScoreWidget
+[2018.08.02-19.55.35:291][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfcb02c120, Size=4
+[2018.08.02-19.55.35:291][502]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfcb02c120, Size=4, Default__SKEL_HighScoreWidget_C Function /Engine/Transient.REINST_SKEL_HighScoreWidget_C_94:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.55.35:308][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc6b088c0, Size=32
+[2018.08.02-19.55.35:308][502]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc9e07320, Size=32, HighScoreWidget_C_324 Function /Engine/Transient.REINST_HighScoreWidget_C_96:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.55.35:324][502]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfc6d4eaa0, Size=32, Default__HighScoreWidget_C Function /Game/Blueprints/HighSCoreWidget.HighScoreWidget_C:ExecuteUbergraph_HighScoreWidget
+[2018.08.02-19.55.35:441][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfcb02c120, Size=4
+[2018.08.02-19.55.35:441][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfcb02c830, Size=4
+[2018.08.02-19.55.36:997][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/HighSCoreWidget" FILE="../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset" SILENT=true
+[2018.08.02-19.55.37:053][544]LogSavePackage: Save=26.86ms
+[2018.08.02-19.55.37:053][544]LogSavePackage: Moving '../../../../Projects/pinball/Saved/HighSCoreWidget9FB56E2046D8511411240F8347B1A479.tmp' to '../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset'
+[2018.08.02-19.55.37:055][544]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/HighSCoreWidget.uasset
+[2018.08.02-19.55.41:126][633]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.55.41:212][633]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.55.41:212][633]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:55:41 AM)
+[2018.08.02-19.55.41:212][633]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.55.41:225][633]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012854s)
+[2018.08.02-19.55.41:225][633]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.55.41:226][633]LogPlayLevel: PIE: World Init took: (0.000739s)
+[2018.08.02-19.55.41:226][633]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.013766s)
+[2018.08.02-19.55.41:255][633]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.55.41:261][633]LogInit: FAudioDevice initialized.
+[2018.08.02-19.55.41:261][633]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-19.55.41:295][633]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.55.41:298][633]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.55.41
+[2018.08.02-19.55.41:298][633]LogWorld: Bringing up level for play took: 0.002533
+[2018.08.02-19.55.41:301][633]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap -0.298
+[2018.08.02-19.55.46:679][871]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.56.44:924][ 59]BlueprintLog: New page: Compile PinballGameMode
+[2018.08.02-19.56.45:099][ 59]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc8a4c580, Size=336
+[2018.08.02-19.56.45:100][ 59]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfce0a6980, Size=336, Default__PinballGameMode_C Function /Engine/Transient.REINST_PinballGameMode_C_220:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.56.45:121][ 59]LogUObjectGlobals: Created PersistentFrame Addr=0x000002cfce382c80, Size=336, Default__PinballGameMode_C Function /Game/Blueprints/PinballGameMode.PinballGameMode_C:ExecuteUbergraph_PinballGameMode
+[2018.08.02-19.56.51:751][183]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.02-19.56.51:821][183]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.02-19.56.51:822][183]PIE: New page: PIE session: NewMap (Aug 2, 2018, 11:56:51 AM)
+[2018.08.02-19.56.51:822][183]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_NewMap
+[2018.08.02-19.56.51:841][183]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019410s)
+[2018.08.02-19.56.51:842][183]LogAIModule: Creating AISystem for world NewMap
+[2018.08.02-19.56.51:842][183]LogPlayLevel: PIE: World Init took: (0.001091s)
+[2018.08.02-19.56.51:843][183]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/NewMap.NewMap to /Game/Maps/UEDPIE_0_NewMap.NewMap (0.020832s)
+[2018.08.02-19.56.51:891][183]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfce0a6980, Size=336
+[2018.08.02-19.56.51:904][183]LogInit: XAudio2 using 'Speakers (Dell USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.02-19.56.51:920][183]LogInit: FAudioDevice initialized.
+[2018.08.02-19.56.51:961][183]LogLoad: Game class is 'PinballGameMode_C'
+[2018.08.02-19.56.51:963][183]LogWorld: Bringing World /Game/Maps/UEDPIE_0_NewMap.NewMap up for play (max tick rate 60) at 2018.08.02-15.56.51
+[2018.08.02-19.56.51:964][183]LogWorld: Bringing up level for play took: 0.002127
+[2018.08.02-19.56.51:967][183]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_NewMap 0.369
+[2018.08.02-19.56.57:004][326]LogBlueprintUserMessages: [PinballGameMode_C_0] 1
+[2018.08.02-19.59.38:205][938]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.033
+[2018.08.02-19.59.38:207][938]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/PinballGameMode] ([1] browsable assets)...
+[2018.08.02-19.59.38:207][938]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PinballGameMode]
+[2018.08.02-19.59.38:207][938]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/PinballGameMode" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-19.59.38:278][938]LogSavePackage: Save=52.93ms
+[2018.08.02-19.59.38:278][938]LogSavePackage: Moving '../../../../Projects/pinball/Saved/PinballGameMode_Auto34CB48A7C40C0482A09E64E985007F111.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto3.uasset'
+[2018.08.02-19.59.38:279][938]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/PinballGameMode_Auto3.uasset
+[2018.08.02-19.59.38:279][938]LogFileHelpers: Auto-saving content packages took 0.073
+[2018.08.02-20.00.49:821][247]LogSlate: Window 'HighScoreWidget' being destroyed
+[2018.08.02-20.00.49:854][247]LogSlate: Window 'HighScoreWidget' being destroyed
+[2018.08.02-20.00.50:272][247]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.08.02-20.01.00:388][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailEnd.FBX)
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: Material, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: Texture, ItemCount : 1
+[2018.08.02-20.01.00:427][389]LogFbx: ItemName: Video, ItemCount : 1
+[2018.08.02-20.01.00:437][389]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailEnd.FBX
+[2018.08.02-20.01.00:449][389]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.01.04:276][389]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.02-20.01.04:315][389]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailEnd.FBX
+[2018.08.02-20.01.04:320][389]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.01.04:331][389]LogStaticMesh: Building static mesh SM_RailEnd...
+[2018.08.02-20.01.04:355][389]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/meshes/SM_RailEnd.SM_RailEnd
+[2018.08.02-20.01.04:378][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.01.04:401][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailMid.FBX)
+[2018.08.02-20.01.04:415][389]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailMid.FBX
+[2018.08.02-20.01.04:421][389]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.01.04:426][389]LogStaticMesh: Building static mesh SM_RailMid...
+[2018.08.02-20.01.04:444][389]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/meshes/SM_RailMid.SM_RailMid
+[2018.08.02-20.01.04:462][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.01.04:532][389]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailMouth.FBX)
+[2018.08.02-20.01.04:545][389]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_RailMouth.FBX
+[2018.08.02-20.01.04:554][389]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.01.04:559][389]LogStaticMesh: Building static mesh SM_RailMouth...
+[2018.08.02-20.01.04:578][389]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/meshes/SM_RailMouth.SM_RailMouth
+[2018.08.02-20.01.04:599][389]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.01.07:119][462]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.01.07:153][462]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.01.40:559][667]LogRenderer: Reallocating scene render targets to support 1208x964 Format 9 NumSamples 1 (Frame:1).
+[2018.08.02-20.01.58:101][895]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.01.58:354][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailEnd" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset" SILENT=true
+[2018.08.02-20.01.58:372][896]LogSavePackage: Save=14.50ms
+[2018.08.02-20.01.58:373][896]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailEnd09017C914EB7FE2626C07AB0B5962170.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset'
+[2018.08.02-20.01.58:375][896]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset
+[2018.08.02-20.03.12:462][457]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.03.12:685][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailEnd" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset" SILENT=true
+[2018.08.02-20.03.12:753][459]LogSavePackage: Save=17.04ms
+[2018.08.02-20.03.12:753][459]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailEnd3E214D41444B508C482CAFB254E5CE31.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset'
+[2018.08.02-20.03.12:757][459]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset
+[2018.08.02-20.03.16:953][497]LogActorFactory: Actor Factory created SM_RailEnd
+[2018.08.02-20.03.17:964][508]LogActorFactory: Actor Factory created SM_RailEnd
+[2018.08.02-20.03.23:603][569]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.03.32:330][659]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.03.36:016][699]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailEnd" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset" SILENT=true
+[2018.08.02-20.03.36:061][699]LogSavePackage: Save=12.56ms
+[2018.08.02-20.03.36:061][699]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailEndA8D843134D142712A96838AFFDF60F8B.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset'
+[2018.08.02-20.03.36:063][699]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset
+[2018.08.02-20.03.49:656][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.04.10:473][ 12]LogRenderer: Reallocating scene render targets to support 1328x964 Format 9 NumSamples 1 (Frame:1365).
+[2018.08.02-20.04.22:217][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailEnd" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset" SILENT=true
+[2018.08.02-20.04.22:256][117]LogSavePackage: Save=12.84ms
+[2018.08.02-20.04.22:256][117]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailEndC937CE024A23AA9DA65CB5B09EBBAD9B.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset'
+[2018.08.02-20.04.22:259][117]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset
+[2018.08.02-20.04.32:182][192]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.04.36:813][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailEnd" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset" SILENT=true
+[2018.08.02-20.04.36:874][246]LogSavePackage: Save=30.48ms
+[2018.08.02-20.04.36:874][246]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailEnd24A27EAF434160307FDDC19FCEBF3E3A.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset'
+[2018.08.02-20.04.36:879][246]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailEnd.uasset
+[2018.08.02-20.05.06:166][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.05.06:322][392]LogSlate: Window 'SM_RailEnd' being destroyed
+[2018.08.02-20.05.06:413][392]LogSlate: Window 'SM_RailEnd' being destroyed
+[2018.08.02-20.05.07:867][420]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.05.26:053][679]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailMid" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset" SILENT=true
+[2018.08.02-20.05.26:092][679]LogSavePackage: Save=35.07ms
+[2018.08.02-20.05.26:092][679]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailMidFEFA5F8A4BDEDCAE8856CAAC06D24C2E.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset'
+[2018.08.02-20.05.26:097][679]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset
+[2018.08.02-20.05.26:826][692]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.05.28:814][721]LogSlate: Window 'SM_RailMid' being destroyed
+[2018.08.02-20.05.28:894][721]LogSlate: Window 'SM_RailMid' being destroyed
+[2018.08.02-20.05.30:476][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.05.47:118][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailMouth" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset" SILENT=true
+[2018.08.02-20.05.47:160][986]LogSavePackage: Save=35.67ms
+[2018.08.02-20.05.47:160][986]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailMouth6962C9D04059183EDA51B6B30628FE14.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset'
+[2018.08.02-20.05.47:165][986]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset
+[2018.08.02-20.05.50:451][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.05.53:941][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailMouth" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset" SILENT=true
+[2018.08.02-20.05.54:032][ 77]LogSavePackage: Save=39.71ms
+[2018.08.02-20.05.54:032][ 77]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailMouthB545A4D34E8FB96A5FAAE79D8856F925.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset'
+[2018.08.02-20.05.54:040][ 77]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailMouth.uasset
+[2018.08.02-20.05.56:613][117]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.05.56:690][118]LogSlate: Window 'SM_RailMouth' being destroyed
+[2018.08.02-20.05.56:760][118]LogSlate: Window 'SM_RailMouth' being destroyed
+[2018.08.02-20.05.58:231][148]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.06.04:084][218]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_RailMid" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset" SILENT=true
+[2018.08.02-20.06.04:164][218]LogSavePackage: Save=26.70ms
+[2018.08.02-20.06.04:164][218]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_RailMid7B6BA6194921044FFD14A5B0FC6A97BD.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset'
+[2018.08.02-20.06.04:170][218]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_RailMid.uasset
+[2018.08.02-20.06.05:696][243]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.06.05:828][245]LogSlate: Window 'SM_RailMid' being destroyed
+[2018.08.02-20.06.05:902][245]LogSlate: Window 'SM_RailMid' being destroyed
+[2018.08.02-20.06.22:421][342]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.06.28:067][452]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.02-20.07.42:221][583]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.07.53:293][784]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.07.53:457][785]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset" SILENT=true
+[2018.08.02-20.07.53:495][785]LogSavePackage: Save=33.05ms
+[2018.08.02-20.07.53:495][785]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail8627F556425C17079B55B482C4E28D3E.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset'
+[2018.08.02-20.07.53:500][785]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset
+[2018.08.02-20.07.54:068][797]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.08.07:863][866]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.10.36:050][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.02-20.10.36:118][ 45]LogSavePackage: Save=48.46ms
+[2018.08.02-20.10.36:118][ 45]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap_Auto4616182374F956CA4DE6886A039A59D57.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto4.umap'
+[2018.08.02-20.10.36:119][ 45]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto4.umap
+[2018.08.02-20.10.36:121][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.096
+[2018.08.02-20.10.36:121][ 45]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.096
+[2018.08.02-20.10.36:123][ 45]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rail] ([1] browsable assets)...
+[2018.08.02-20.10.36:123][ 45]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rail]
+[2018.08.02-20.10.36:123][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.10.36:153][ 45]LogSavePackage: Save=14.05ms
+[2018.08.02-20.10.36:153][ 45]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail_Auto487AF62E94BD8117D38006181458B28FF.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto4.uasset'
+[2018.08.02-20.10.36:154][ 45]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto4.uasset
+[2018.08.02-20.10.36:154][ 45]LogFileHelpers: Auto-saving content packages took 0.032
+[2018.08.02-20.13.27:915][672]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.13.27:934][672]LogBlueprint: Error: [Compiler BP_Rail] This blueprint (self) is not a SplineMeshComponent, therefore ' Target ' must have a connection.
+[2018.08.02-20.13.28:067][672]LogBlueprint: Warning: [Compiler BP_Rail] [3719.20] Compile of BP_Rail failed. 1 Fatal Issue(s) 0 Warning(s) [in 151 ms] (/Game/Blueprints/BP_Rail.BP_Rail)
+[2018.08.02-20.13.45:244][928]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.13.52:438][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.17.45:557][ 98]LogMaterial: Warning: Material /Game/Blueprints/steel.steel needed to have new flag set bUsedWithSplineMeshes !
+[2018.08.02-20.17.45:562][ 98]LogMaterial: Missing cached shader map for material steel, compiling. 
+[2018.08.02-20.17.45:621][ 98]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.02-20.17.45:622][ 98]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.02-20.17.45:622][ 98]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.02-20.17.47:813][152]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.17.57:416][311]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.02-20.17.59:563][344]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.02-20.18.06:603][464]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.20.36:918][964]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.029
+[2018.08.02-20.20.36:920][964]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/steel] ([1] browsable assets)...
+[2018.08.02-20.20.36:966][964]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Blueprints/steel.steel]
+[2018.08.02-20.20.36:966][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/steel]
+[2018.08.02-20.20.36:966][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/steel" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/steel_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.20.37:011][964]LogSavePackage: Save=19.51ms
+[2018.08.02-20.20.37:011][964]LogSavePackage: Moving '../../../../Projects/pinball/Saved/steel_Auto5D747A78743E579E5F037EF9A3CE733FC.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/steel_Auto5.uasset'
+[2018.08.02-20.20.37:012][964]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/steel_Auto5.uasset
+[2018.08.02-20.20.37:012][964]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rail] ([1] browsable assets)...
+[2018.08.02-20.20.37:012][964]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rail]
+[2018.08.02-20.20.37:012][964]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.20.37:057][964]LogSavePackage: Save=23.13ms
+[2018.08.02-20.20.37:057][964]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail_Auto5108EB15044EBAA86E97593B96636E87A.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto5.uasset'
+[2018.08.02-20.20.37:058][964]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto5.uasset
+[2018.08.02-20.20.37:058][964]LogFileHelpers: Auto-saving content packages took 0.139
+[2018.08.02-20.24.49:432][266]LogEditorTransaction: Undo Create Pin Link
+[2018.08.02-20.27.09:172][405]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.27.09:262][405]LogBlueprint: Error: [Compiler BP_Rail] This blueprint (self) is not a StaticMeshComponent, therefore ' Target ' must have a connection.
+[2018.08.02-20.27.09:262][405]LogBlueprint: Error: [Compiler BP_Rail] This blueprint (self) is not a StaticMeshComponent, therefore ' Target ' must have a connection.
+[2018.08.02-20.27.09:483][405]LogBlueprint: Warning: [Compiler BP_Rail] [4540.62] Compile of BP_Rail failed. 2 Fatal Issue(s) 0 Warning(s) [in 310 ms] (/Game/Blueprints/BP_Rail.BP_Rail)
+[2018.08.02-20.27.36:810][995]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.28.01:541][322]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.28.11:173][549]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.28.12:065][561]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset" SILENT=true
+[2018.08.02-20.28.12:161][561]LogSavePackage: Save=48.23ms
+[2018.08.02-20.28.12:161][561]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail9F59150742C45A7BB9E83F8AA8FA89D3.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset'
+[2018.08.02-20.28.12:172][561]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset
+[2018.08.02-20.29.14:334][916]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.30.04:907][186]LogEditorTransaction: Undo Move Nodes
+[2018.08.02-20.33.46:510][197]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.031
+[2018.08.02-20.33.46:512][197]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Rail] ([1] browsable assets)...
+[2018.08.02-20.33.46:512][197]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Rail]
+[2018.08.02-20.33.46:512][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.33.46:557][197]LogSavePackage: Save=24.19ms
+[2018.08.02-20.33.46:557][197]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail_Auto69A20485F44E96B32C48E71B3FA662A15.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto6.uasset'
+[2018.08.02-20.33.46:558][197]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_Rail_Auto6.uasset
+[2018.08.02-20.33.46:558][197]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.08.02-20.34.32:313][632]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.34.49:216][ 58]LogEditorTransaction: Undo Move Node
+[2018.08.02-20.34.50:347][ 84]LogEditorTransaction: Undo Convert to Impure Get
+[2018.08.02-20.35.17:161][715]LogEditorTransaction: Undo Convert to Impure Get
+[2018.08.02-20.35.40:234][237]LogSlate: Window 'Delete Variable' being destroyed
+[2018.08.02-20.35.57:303][629]LogSlate: Window 'Delete Variable' being destroyed
+[2018.08.02-20.36.28:468][354]LogSlate: Window 'Delete Variable' being destroyed
+[2018.08.02-20.36.50:584][882]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.37.07:340][213]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.37.17:888][405]LogSlate: Window 'Delete Variable' being destroyed
+[2018.08.02-20.37.33:437][795]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.37.38:220][892]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.37.45:794][ 59]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.38.10:555][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_RailEnd)
+[2018.08.02-20.38.12:076][430]Cmd: DELETE
+[2018.08.02-20.38.12:076][430]Cmd: ACTOR DELETE
+[2018.08.02-20.38.12:086][430]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.08.02-20.38.12:156][430]LogEditorActor: Deleted 1 Actors (0.079 secs)
+[2018.08.02-20.38.13:049][447]LogEditorViewport: Clicking on Actor (LMB): BP_Rail_C (BP_Rail)
+[2018.08.02-20.38.19:375][552]Cmd: TRANSACTION UNDO
+[2018.08.02-20.38.19:375][552]LogEditorTransaction: Undo Move Actors
+[2018.08.02-20.38.20:439][567]LogEditorViewport: Clicking on Actor (LMB): BP_Rail_C (BP_Rail)
+[2018.08.02-20.38.50:511][ 78]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.39.06:506][347]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.39.06:557][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../Projects/pinball/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.02-20.39.06:728][347]LogSavePackage: Save=87.78ms
+[2018.08.02-20.39.06:728][347]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMapFD5BA510436C9810FDC06B83D3029E80.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap.umap'
+[2018.08.02-20.39.06:738][347]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap.umap
+[2018.08.02-20.39.06:789][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2018.08.02-20.39.06:844][347]LogSavePackage: Save=31.04ms
+[2018.08.02-20.39.06:844][347]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap_BuiltData38F4E80F454AD4ED994F6FBD646F668D.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset'
+[2018.08.02-20.39.06:845][347]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset
+[2018.08.02-20.41.14:666][780]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.42.09:153][ 37]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PlasticRamp.FBX)
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.02-20.42.09:162][ 37]LogFbx: ItemName: Material, ItemCount : 2
+[2018.08.02-20.42.09:167][ 37]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PlasticRamp.FBX
+[2018.08.02-20.42.09:174][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.42.11:961][ 37]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.02-20.42.11:997][ 37]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PlasticRamp.FBX
+[2018.08.02-20.42.12:003][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.42.12:008][ 37]LogStaticMesh: Building static mesh SM_PlasticRamp...
+[2018.08.02-20.42.12:032][ 37]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/meshes/SM_PlasticRamp.SM_PlasticRamp
+[2018.08.02-20.42.12:051][ 37]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.42.12:078][ 37]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PlasticRamp_End.FBX)
+[2018.08.02-20.42.12:088][ 37]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PlasticRamp_End.FBX
+[2018.08.02-20.42.12:096][ 37]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.42.12:099][ 37]LogStaticMesh: Building static mesh SM_PlasticRamp_End...
+[2018.08.02-20.42.12:118][ 37]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/meshes/SM_PlasticRamp_End.SM_PlasticRamp_End
+[2018.08.02-20.42.12:141][ 37]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.42.13:902][ 65]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.42.13:970][ 65]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.42.44:935][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_PlasticRamp_End" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset" SILENT=true
+[2018.08.02-20.42.44:967][459]LogSavePackage: Save=26.61ms
+[2018.08.02-20.42.44:967][459]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_PlasticRamp_EndC9FBBADE41C919AA19FB5EABB6E09FD6.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset'
+[2018.08.02-20.42.44:973][459]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset
+[2018.08.02-20.42.50:305][515]LogActorFactory: Actor Factory created SM_PlasticRamp_End
+[2018.08.02-20.42.51:354][529]LogActorFactory: Actor Factory created SM_PlasticRamp_End
+[2018.08.02-20.42.52:305][539]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.42.54:222][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_PlasticRamp_End)
+[2018.08.02-20.43.05:680][706]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.43.13:410][812]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_PlasticRamp_End" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset" SILENT=true
+[2018.08.02-20.43.13:490][812]LogSavePackage: Save=30.47ms
+[2018.08.02-20.43.13:490][812]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_PlasticRamp_EndAB2B35FB4AA6BDA7F47075A3EA623F0F.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset'
+[2018.08.02-20.43.13:495][812]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp_End.uasset
+[2018.08.02-20.43.19:274][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.43.52:398][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_PlasticRamp" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset" SILENT=true
+[2018.08.02-20.43.52:436][210]LogSavePackage: Save=32.33ms
+[2018.08.02-20.43.52:436][210]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_PlasticRamp451A80E946CFC8D202A46388590D0C25.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset'
+[2018.08.02-20.43.52:441][210]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset
+[2018.08.02-20.44.06:239][308]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.44.06:519][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_PlasticRamp" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset" SILENT=true
+[2018.08.02-20.44.06:568][309]LogSavePackage: Save=8.09ms
+[2018.08.02-20.44.06:568][309]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_PlasticRamp1356FB58401CD8AE1D6257A49638D061.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset'
+[2018.08.02-20.44.06:569][309]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_PlasticRamp.uasset
+[2018.08.02-20.44.07:888][325]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.44.10:985][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset" SILENT=true
+[2018.08.02-20.44.11:118][349]LogSavePackage: Save=76.50ms
+[2018.08.02-20.44.11:118][349]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail343C02694FDE4BDF6C56029B9264B6CF.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset'
+[2018.08.02-20.44.11:128][349]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset
+[2018.08.02-20.44.15:252][380]LogEditorViewport: Clicking on Actor (LMB): BP_Rail_C (BP_Rail)
+[2018.08.02-20.44.20:269][418]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.44.20:391][419]LogSlate: Window 'SM_PlasticRamp' being destroyed
+[2018.08.02-20.44.20:508][419]LogSlate: Window 'SM_PlasticRamp' being destroyed
+[2018.08.02-20.44.23:255][463]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.44.27:520][543]LogMaterial: Warning: Material /Game/Assets/m_plasti.m_plasti needed to have new flag set bUsedWithSplineMeshes !
+[2018.08.02-20.44.27:525][543]LogMaterial: Missing cached shader map for material m_plasti, compiling. 
+[2018.08.02-20.44.27:583][543]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.08.02-20.44.27:583][543]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.08.02-20.44.27:583][543]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.08.02-20.44.34:223][688]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.44.42:528][841]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.44.53:786][ 76]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.45.00:466][158]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.08.02-20.45.17:897][579]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.02-20.45.18:475][594]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.45.18:706][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../Projects/pinball/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.02-20.45.18:772][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc9e05000, Size=32
+[2018.08.02-20.45.18:773][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc93847e0, Size=32
+[2018.08.02-20.45.18:773][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc9e07320, Size=32
+[2018.08.02-20.45.18:773][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf1a1f6160, Size=32
+[2018.08.02-20.45.18:773][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6bf262c0, Size=32
+[2018.08.02-20.45.18:776][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf6fc15f60, Size=32
+[2018.08.02-20.45.18:776][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf7fdd6c00, Size=32
+[2018.08.02-20.45.18:776][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cfc945ab00, Size=128
+[2018.08.02-20.45.18:776][598]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000002cf9d717240, Size=32
+[2018.08.02-20.45.19:033][598]LogSavePackage: Save=164.07ms
+[2018.08.02-20.45.19:033][598]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap1605705349863B121627C799655C5263.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap.umap'
+[2018.08.02-20.45.19:038][598]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap.umap
+[2018.08.02-20.45.19:118][598]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2018.08.02-20.45.19:186][598]LogSavePackage: Save=33.13ms
+[2018.08.02-20.45.19:186][598]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap_BuiltData8A9A49534B6694002641A5A21F701012.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset'
+[2018.08.02-20.45.19:188][598]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset
+[2018.08.02-20.46.18:342][374]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.47.18:258][527]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.08.02-20.47.18:258][527]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.08.02-20.47.18:258][527]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.08.02-20.47.18:258][527]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.08.02-20.47.18:258][527]LogClass: Warning: In asset 'None', there is an enum property of type 'ECollisionChannel' with an invalid value of ''
+[2018.08.02-20.47.19:977][564]BlueprintLog: New page: Compile BP_Rail
+[2018.08.02-20.52.37:775][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Rail" FILE="../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset" SILENT=true
+[2018.08.02-20.52.37:845][602]LogSavePackage: Save=31.90ms
+[2018.08.02-20.52.37:845][602]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_Rail164568CA4FAF9B3FB2AB62B52DE0BB9E.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset'
+[2018.08.02-20.52.37:847][602]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_Rail.uasset
+[2018.08.02-20.52.39:495][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.52.39:587][643]LogSlate: Window 'BP_Rail' being destroyed
+[2018.08.02-20.52.39:632][643]LogSlate: Window 'BP_Rail' being destroyed
+[2018.08.02-20.53.18:584][844]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PostHalf.FBX)
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: Model, ItemCount : 1
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: Geometry, ItemCount : 1
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: Material, ItemCount : 3
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: Texture, ItemCount : 2
+[2018.08.02-20.53.18:598][844]LogFbx: ItemName: Video, ItemCount : 2
+[2018.08.02-20.53.18:606][844]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PostHalf.FBX
+[2018.08.02-20.53.18:613][844]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.53.18:627][844]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.53.40:660][844]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.08.02-20.53.40:703][844]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_PostHalf.FBX
+[2018.08.02-20.53.40:710][844]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.53.40:713][844]LogStaticMesh: Building static mesh SM_PostHalf...
+[2018.08.02-20.53.40:720][844]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/meshes/SM_PostHalf.SM_PostHalf
+[2018.08.02-20.53.40:738][844]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.53.40:765][844]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_BandExtender.FBX)
+[2018.08.02-20.53.40:775][844]LogFbx: Loading FBX Scene from C:\and_web_assets\UE\Projects\PinballAssets\PinballAssets\SM_BandExtender.FBX
+[2018.08.02-20.53.40:782][844]LogFbx: FBX Scene Loaded Succesfully
+[2018.08.02-20.53.40:783][844]LogStaticMesh: Building static mesh SM_BandExtender...
+[2018.08.02-20.53.40:785][844]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/meshes/SM_BandExtender.SM_BandExtender
+[2018.08.02-20.53.40:796][844]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.08.02-20.53.43:127][895]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.53.43:163][895]LogSlate: Window 'Message Log' being destroyed
+[2018.08.02-20.53.45:048][940]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.01:264][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.54.03:908][105]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.54.05:995][135]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.54.09:555][187]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.09:873][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_BandExtender" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_BandExtender.uasset" SILENT=true
+[2018.08.02-20.54.09:893][189]LogSavePackage: Save=16.28ms
+[2018.08.02-20.54.09:893][189]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_BandExtenderCC081C994664FB3902ED0F825D5D9D57.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_BandExtender.uasset'
+[2018.08.02-20.54.09:896][189]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_BandExtender.uasset
+[2018.08.02-20.54.11:533][215]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.11:668][217]LogSlate: Window 'SM_BandExtender' being destroyed
+[2018.08.02-20.54.11:742][217]LogSlate: Window 'SM_BandExtender' being destroyed
+[2018.08.02-20.54.16:203][313]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.21:554][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-20.54.24:964][431]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.25:212][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/meshes/SM_PostHalf" FILE="../../../../Projects/pinball/Content/Assets/meshes/SM_PostHalf.uasset" SILENT=true
+[2018.08.02-20.54.25:254][432]LogSavePackage: Save=36.50ms
+[2018.08.02-20.54.25:254][432]LogSavePackage: Moving '../../../../Projects/pinball/Saved/SM_PostHalf39DB20B94365299077E4BF877E325CC0.tmp' to '../../../../Projects/pinball/Content/Assets/meshes/SM_PostHalf.uasset'
+[2018.08.02-20.54.25:259][432]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Assets/meshes/SM_PostHalf.uasset
+[2018.08.02-20.54.57:303][559]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.54.57:444][561]LogSlate: Window 'SM_PostHalf' being destroyed
+[2018.08.02-20.54.57:517][561]LogSlate: Window 'SM_PostHalf' being destroyed
+[2018.08.02-20.54.58:224][573]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.55.04:310][677]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.02-20.55.40:090][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2018.08.02-20.55.40:156][ 64]LogSavePackage: Save=46.77ms
+[2018.08.02-20.55.40:156][ 64]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap_Auto7269025CA4C183738F48ABAB287DDB0D9.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto7.umap'
+[2018.08.02-20.55.40:157][ 64]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Maps/NewMap_Auto7.umap
+[2018.08.02-20.55.40:159][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/NewMap' took 0.103
+[2018.08.02-20.55.40:159][ 64]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.103
+[2018.08.02-20.55.40:161][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/m_plasti] ([1] browsable assets)...
+[2018.08.02-20.55.40:177][ 64]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Assets/m_plasti.m_plasti]
+[2018.08.02-20.55.40:177][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/m_plasti]
+[2018.08.02-20.55.40:177][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/m_plasti" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Assets/m_plasti_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.55.40:203][ 64]LogSavePackage: Save=13.61ms
+[2018.08.02-20.55.40:203][ 64]LogSavePackage: Moving '../../../../Projects/pinball/Saved/m_plasti_Auto71F1121294A80C7FDE732CE9ED6F0F379.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Assets/m_plasti_Auto7.uasset'
+[2018.08.02-20.55.40:204][ 64]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Assets/m_plasti_Auto7.uasset
+[2018.08.02-20.55.40:204][ 64]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/yellow_plastic] ([1] browsable assets)...
+[2018.08.02-20.55.40:221][ 64]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Assets/yellow_plastic.yellow_plastic]
+[2018.08.02-20.55.40:221][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/yellow_plastic]
+[2018.08.02-20.55.40:221][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/yellow_plastic" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Assets/yellow_plastic_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.55.40:248][ 64]LogSavePackage: Save=11.68ms
+[2018.08.02-20.55.40:248][ 64]LogSavePackage: Moving '../../../../Projects/pinball/Saved/yellow_plastic_Auto74A97E2054E63520E0D4D4C8F11121E90.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Assets/yellow_plastic_Auto7.uasset'
+[2018.08.02-20.55.40:249][ 64]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Assets/yellow_plastic_Auto7.uasset
+[2018.08.02-20.55.40:249][ 64]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_VariableBand] ([1] browsable assets)...
+[2018.08.02-20.55.40:249][ 64]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_VariableBand]
+[2018.08.02-20.55.40:249][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_VariableBand_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2018.08.02-20.55.40:261][ 64]LogSavePackage: Save=10.51ms
+[2018.08.02-20.55.40:261][ 64]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_VariableBand_Auto715D377054E26EE346CF97DB215DD8638.tmp' to '../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_VariableBand_Auto7.uasset'
+[2018.08.02-20.55.40:264][ 64]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Saved/Autosaves/Game/Blueprints/BP_VariableBand_Auto7.uasset
+[2018.08.02-20.55.40:264][ 64]LogFileHelpers: Auto-saving content packages took 0.104
+[2018.08.02-20.57.43:310][255]LogSlate: Took 0.000283 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.08.02-20.57.46:943][315]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-20.58.30:274][669]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-20.58.34:800][743]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-20.58.35:923][756]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2018.08.02-20.58.35:951][756]LogSavePackage: Save=24.42ms
+[2018.08.02-20.58.35:951][756]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_VariableBand4705D4024FAD0760E9B46D81080A06BB.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2018.08.02-20.58.35:959][756]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset
+[2018.08.02-20.58.52:233][894]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-20.59.22:868][ 46]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-21.01.08:006][  2]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.01.28:373][303]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.01.34:349][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2018.08.02-21.01.34:447][423]LogSavePackage: Save=43.73ms
+[2018.08.02-21.01.34:447][423]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_VariableBand6AC8A8E2400A220AD8104598C279110E.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2018.08.02-21.01.34:451][423]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset
+[2018.08.02-21.02.20:763][ 28]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-21.03.14:662][719]Cmd: DELETE
+[2018.08.02-21.03.14:662][719]Cmd: ACTOR DELETE
+[2018.08.02-21.03.14:665][719]LogEditorActor: Deleted Actor: BP_VariableBand_C
+[2018.08.02-21.03.14:703][719]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2018.08.02-21.03.16:333][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.03.44:299][414]Cmd: SELECT NONE
+[2018.08.02-21.03.47:158][484]LogEditorViewport: Clicking on Actor (LMB): BP_VariableBand_C (BP_VariableBand)
+[2018.08.02-21.03.49:319][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.02-21.03.49:363][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap" FILE="../../../../Projects/pinball/Content/Maps/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.02-21.03.49:574][531]LogSavePackage: Save=113.81ms
+[2018.08.02-21.03.49:574][531]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap8472A51040ADE622E4592B8B2767ED7B.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap.umap'
+[2018.08.02-21.03.49:586][531]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap.umap
+[2018.08.02-21.03.49:642][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/NewMap_BuiltData" FILE="../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset" SILENT=true
+[2018.08.02-21.03.49:690][531]LogSavePackage: Save=21.54ms
+[2018.08.02-21.03.49:690][531]LogSavePackage: Moving '../../../../Projects/pinball/Saved/NewMap_BuiltDataF07A512A41820119AA71DBBB59763DCD.tmp' to '../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset'
+[2018.08.02-21.03.49:691][531]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Maps/NewMap_BuiltData.uasset
+[2018.08.02-21.05.45:248][732]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.06.04:505][ 24]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.06.17:067][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.06.23:530][322]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.06.25:129][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_VariableBand" FILE="../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset" SILENT=true
+[2018.08.02-21.06.25:203][337]LogSavePackage: Save=40.21ms
+[2018.08.02-21.06.25:203][337]LogSavePackage: Moving '../../../../Projects/pinball/Saved/BP_VariableBand1218AD9C48C7BA2EE8AA6EA8C3FAC620.tmp' to '../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset'
+[2018.08.02-21.06.25:206][337]LogSavePackage: Display: Finished SavePackage ../../../../Projects/pinball/Content/Blueprints/BP_VariableBand.uasset
+[2018.08.02-21.06.27:935][380]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.06.39:753][550]LogEditorTransaction: Undo Set Scale
+[2018.08.02-21.06.41:563][576]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.07.03:875][985]LogSlate: Window 'BP_VariableBand' being destroyed
+[2018.08.02-21.07.03:916][985]LogSlate: Window 'BP_VariableBand' being destroyed
+[2018.08.02-21.07.09:584][ 29]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.02-21.07.14:969][113]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.08.02-21.07.36:115][577]LogBlueprint: Warning: [BP_VariableBand] 'Post1' variable not found. Base class was probably changed. /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2018.08.02-21.07.36:117][577]LogBlueprint: Warning: [BP_VariableBand] 'PostLocation' variable not found. Base class was probably changed. /Game/Blueprints/BP_VariableBand.BP_VariableBand
+[2018.08.02-21.08.20:500][473]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.08.20:510][473]LogBlueprint: Warning: [Compiler BP_VariableBand] Could not find a variable named "PostLocation" in 'BP_VariableBand_C'.
+Make sure 'BP_VariableBand_C' has been compiled for  Get PostLocation
+[2018.08.02-21.08.20:511][473]LogBlueprint: Error: [Compiler BP_VariableBand] The property associated with  Post Location  could not be found
+[2018.08.02-21.08.20:662][473]LogBlueprint: Warning: [Compiler BP_VariableBand] [7011.81] Compile of BP_VariableBand failed. 1 Fatal Issue(s) 1 Warning(s) [in 161 ms] (/Game/Blueprints/BP_VariableBand.BP_VariableBand)
+[2018.08.02-21.08.40:405][966]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.08.47:616][ 99]LogSlate: Window 'Change Variable Type' being destroyed
+[2018.08.02-21.08.51:033][184]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.08.02-21.08.51:080][184]LogSlate: Window 'Find in Blueprints' being destroyed
+[2018.08.02-21.08.54:692][275]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.08.54:721][275]LogClass: Warning: Type mismatch in PostLocation of BP_VariableBand_C - Previous (BoolProperty) Current(StructProperty) for package:  FObjectReader
+[2018.08.02-21.09.01:645][437]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.09.09:612][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.09.21:615][815]BlueprintLog: New page: Compile BP_VariableBand
+[2018.08.02-21.09.31:919][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.02-21.09.35:972][ 24]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.08.02-21.09.35:991][ 24]LogD3D11RHI: Error: Result failed 
+ at D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:303 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2018.08.02-21.09.35:991][ 24]LogWindows: Windows GetLastError: The operation completed successfully. (0)
